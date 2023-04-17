@@ -1,0 +1,481 @@
+Query Molecule,Canonicalization,Rank,Pubchem,Patent
+Penicillin,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/18643908,https://pubchem.ncbi.nlm.nih.gov/patent/US-4996313-A
+Penicillin,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/70630416,https://pubchem.ncbi.nlm.nih.gov/patent/US-4171304-A
+Penicillin,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/23616098,n/a
+Penicillin,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/70367018,n/a
+Penicillin,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/21500059,https://pubchem.ncbi.nlm.nih.gov/patent/US-4010156-A
+Penicillin,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/57624296,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009081766-A1
+Penicillin,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/158211812,n/a
+Penicillin,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/20389584,https://pubchem.ncbi.nlm.nih.gov/patent/US-4171304-A
+Penicillin,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/56988098,https://pubchem.ncbi.nlm.nih.gov/patent/US-4461726-A
+Penicillin,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/102119253,n/a
+Penicillin,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/13277548,https://pubchem.ncbi.nlm.nih.gov/patent/US-4942229-A
+Penicillin,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/152766084,https://pubchem.ncbi.nlm.nih.gov/patent/US-3954732-A
+Penicillin,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/22874634,https://pubchem.ncbi.nlm.nih.gov/patent/US-5656623-A
+Penicillin,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/4393031,n/a
+Penicillin,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/56615217,n/a
+Penicillin,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/11741115,n/a
+Penicillin,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/26813,n/a
+Penicillin,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/70547535,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0005889-B1
+Penicillin,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/14829431,https://pubchem.ncbi.nlm.nih.gov/patent/US-4159272-A
+Penicillin,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/5046855,n/a
+Penicillin,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/108789963,n/a
+Penicillin,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/108788832,n/a
+Penicillin,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/57624293,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009081766-A1
+Penicillin,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/108795879,n/a
+Penicillin,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/20341961,https://pubchem.ncbi.nlm.nih.gov/patent/US-4200572-A
+Penicillin,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/203884,n/a
+Penicillin,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/44458116,n/a
+Penicillin,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/123234728,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2014138046-A1
+Penicillin,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/59069194,https://pubchem.ncbi.nlm.nih.gov/patent/US-6815440-B2
+Penicillin,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/50877043,n/a
+Penicillin,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/5211680,n/a
+Penicillin,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/3288488,n/a
+Penicillin,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/11047455,n/a
+Penicillin,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/11860261,n/a
+Penicillin,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/121879937,n/a
+Penicillin,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/72811315,https://pubchem.ncbi.nlm.nih.gov/patent/US-2016039825-A1
+Penicillin,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/53715169,https://pubchem.ncbi.nlm.nih.gov/patent/CA-2297988-A1
+Penicillin,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/56796420,n/a
+Penicillin,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/59847560,n/a
+Penicillin,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/11859780,n/a
+Penicillin,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/135259185,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2018134148-A1
+Penicillin,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/20559382,https://pubchem.ncbi.nlm.nih.gov/patent/US-4304779-A
+Penicillin,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/53944004,https://pubchem.ncbi.nlm.nih.gov/patent/US-4077967-A
+Penicillin,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/88832135,https://pubchem.ncbi.nlm.nih.gov/patent/US-3954731-A
+Penicillin,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/20536617,https://patents.google.com/patent/US4333944A
+Penicillin,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/88762822,n/a
+Penicillin,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/88151512,https://patents.google.com/patent/EP1091959B1
+Penicillin,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/59871148,n/a
+Penicillin,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/101392657,n/a
+Penicillin,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/17176746,n/a
+Penicillin,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/10001910,n/a
+Penicillin,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/72736793,n/a
+Penicillin,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/67836365,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0275888-A2#section=Abstract
+Penicillin,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/59898268,https://patents.google.com/patent/US7173041B2/en
+Penicillin,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/53877724,https://pubchem.ncbi.nlm.nih.gov/patent/US-4077967-A
+Penicillin,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/88640462,https://pubchem.ncbi.nlm.nih.gov/patent/WO-8807534-A1
+Penicillin,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/24811111,n/a
+Penicillin,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/86733573,https://pubchem.ncbi.nlm.nih.gov/patent/US-3965111-A
+Penicillin,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/58637593,n/a
+Penicillin,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/20559367,https://pubchem.ncbi.nlm.nih.gov/patent/US-4304779-A
+Nirmatrelvir,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/89072452,https://pubchem.ncbi.nlm.nih.gov/patent/US-7192957-B2
+Nirmatrelvir,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/513166,Literature
+Nirmatrelvir,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/89032648,https://pubchem.ncbi.nlm.nih.gov/patent/US-7579320-B2
+Nirmatrelvir,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/88251520,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2008141227-A1
+Nirmatrelvir,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/89128765,None
+Nirmatrelvir,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/89386569,None
+Nirmatrelvir,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/163831729,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2006113942-A2
+Nirmatrelvir,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/58846078,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/10146053,None
+Nirmatrelvir,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/70672489,https://pubchem.ncbi.nlm.nih.gov/patent/US-8067379-B2
+Nirmatrelvir,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/49777413,Literature
+Nirmatrelvir,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/70332592,https://pubchem.ncbi.nlm.nih.gov/patent/US-7192957-B2
+Nirmatrelvir,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/58799854,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/11758272,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276405-A1
+Nirmatrelvir,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/117757300,https://pubchem.ncbi.nlm.nih.gov/patent/EP-1730110-B9
+Nirmatrelvir,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/70672229,https://pubchem.ncbi.nlm.nih.gov/patent/US-8067379-B2
+Nirmatrelvir,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/69712881,https://pubchem.ncbi.nlm.nih.gov/patent/US-2004209897-A1
+Nirmatrelvir,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/58815070,https://pubchem.ncbi.nlm.nih.gov/patent/US-2007042968-A1
+Nirmatrelvir,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/91211330,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006281689-A1
+Nirmatrelvir,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/57842534,https://pubchem.ncbi.nlm.nih.gov/patent/US-7244721-B2
+Nirmatrelvir,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/58799854,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/89386569,None
+Nirmatrelvir,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/58799868,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/58799834,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/21017416,None
+Nirmatrelvir,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/58815070,https://pubchem.ncbi.nlm.nih.gov/patent/US-2007042968-A1
+Nirmatrelvir,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/58845760,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276405-A1
+Nirmatrelvir,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/91211330,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006281689-A1
+Nirmatrelvir,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/57842534,https://pubchem.ncbi.nlm.nih.gov/patent/US-7244721-B2
+Nirmatrelvir,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/89128765,None
+Nirmatrelvir,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/70332562,https://pubchem.ncbi.nlm.nih.gov/patent/US-7759499-B2
+Nirmatrelvir,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/58751308,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006252698-A1
+Nirmatrelvir,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/90824016,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/89072393,None
+Nirmatrelvir,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/58845752,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006276406-A1
+Nirmatrelvir,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/10146053,None
+Nirmatrelvir,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/11251171,None
+Nirmatrelvir,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/143314765,https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2006113942&_cid=P12-LFBD0D-74736-1
+Nirmatrelvir,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/58821357,https://pubchem.ncbi.nlm.nih.gov/patent/US-7192957-B2
+Nirmatrelvir,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/58821916,https://pubchem.ncbi.nlm.nih.gov/patent/US-7192957-B2
+Nirmatrelvir,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/123307518,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2013107405-A1
+Nirmatrelvir,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/87441437,https://pubchem.ncbi.nlm.nih.gov/patent/CA-2757866-A1
+Nirmatrelvir,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/123215879,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2014089379-A1
+Nirmatrelvir,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/5065329,None
+Nirmatrelvir,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/71268558,https://pubchem.ncbi.nlm.nih.gov/patent/US-2013053410-A1
+Nirmatrelvir,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/53344667,None
+Nirmatrelvir,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/58262781,https://pubchem.ncbi.nlm.nih.gov/patent/US-2011117057-A1
+Nirmatrelvir,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/137371163,https://pubchem.ncbi.nlm.nih.gov/patent/US-2019002436-A1
+Nirmatrelvir,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/89114369,https://pubchem.ncbi.nlm.nih.gov/patent/US-2012270838-A1
+Nirmatrelvir,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/11997330,None
+Nirmatrelvir,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/123849611,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2011143521-A2
+Nirmatrelvir,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/130253486,https://pubchem.ncbi.nlm.nih.gov/patent/US-9714243-B2
+Nirmatrelvir,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/126592125,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2017025989-A1
+Nirmatrelvir,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/67152605,https://pubchem.ncbi.nlm.nih.gov/patent/US-2011118283-A1
+Nirmatrelvir,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/134321551,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2941432-B1
+Nirmatrelvir,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/155276168,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2970283-B1
+Nirmatrelvir,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/70239211,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2010021680-A2
+Nirmatrelvir,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/88630878,https://pubchem.ncbi.nlm.nih.gov/patent/US-4889857-A
+Nirmatrelvir,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/91802477,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2010043893-A1
+Nirmatrelvir,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/49966021,None
+Azidothymidine,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/44326539,Bioassay
+Azidothymidine,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/57303117,https://pubchem.ncbi.nlm.nih.gov/patent/US-5064946-A
+Azidothymidine,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/157607985,https://pubchem.ncbi.nlm.nih.gov/patent/US-2013072458-A1
+Azidothymidine,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/71335580,NA
+Azidothymidine,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/21145774,Bioassay
+Azidothymidine,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/9816797,NA
+Azidothymidine,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/53721880,https://pubchem.ncbi.nlm.nih.gov/patent/US-6040297-A
+Azidothymidine,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/464363,NA
+Azidothymidine,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/57085874,https://pubchem.ncbi.nlm.nih.gov/patent/US-4681933-A
+Azidothymidine,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/91933148,NA
+Azidothymidine,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/44286560,Bioassay
+Azidothymidine,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/101438451,NA
+Azidothymidine,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/13989283,https://pubchem.ncbi.nlm.nih.gov/patent/US-2005026902-A1
+Azidothymidine,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/129675745,Book
+Azidothymidine,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/10469965,NA
+Azidothymidine,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/12922948,NA
+Azidothymidine,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/12922948,NA
+Azidothymidine,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/20158804,https://pubchem.ncbi.nlm.nih.gov/patent/US-2020399304-A1
+Azidothymidine,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/49769999,Publication
+Azidothymidine,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/10332953,NA
+Azidothymidine,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/10494229,None
+Azidothymidine,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/476466,https://pubmed.ncbi.nlm.nih.gov/8581428/
+Azidothymidine,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/102306428,None
+Azidothymidine,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/89763182,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2631239-A1
+Azidothymidine,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/10501259,Activity assays
+Azidothymidine,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/89763189,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2631239-A1
+Azidothymidine,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/162488274,https://patentscope.wipo.int/search/en/detail.jsf?docId=US343543783&_cid=P12-LFBDR5-84061-1
+Azidothymidine,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/90085164,https://pubchem.ncbi.nlm.nih.gov/patent/US-2014088117-A1
+Azidothymidine,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/89670654,https://pubchem.ncbi.nlm.nih.gov/patent/US-2013172402-A1
+Azidothymidine,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/25185465,https://pubchem.ncbi.nlm.nih.gov/patent/US-2012070415-A1
+Azidothymidine,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/10618341,Bioassay results
+Azidothymidine,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/89433120,https://pubchem.ncbi.nlm.nih.gov/patent/US-2013064794-A1
+Azidothymidine,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/135016033,https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0029-1217566
+Azidothymidine,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/124122254,https://pubchem.ncbi.nlm.nih.gov/patent/AU-2015220560-B2
+Azidothymidine,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/71834937,None
+Azidothymidine,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/23384164,https://pubchem.ncbi.nlm.nih.gov/patent/US-2002028933-A1
+Azidothymidine,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/122418602,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2016113335-A1
+Azidothymidine,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/57155433,https://pubchem.ncbi.nlm.nih.gov/patent/WO-9961583-A2
+Azidothymidine,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/117680541,https://pubchem.ncbi.nlm.nih.gov/patent/US-2012070415-A1
+Azidothymidine,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/71477389,None
+Azidothymidine,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/101424608,None
+Azidothymidine,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/76847725,None
+Azidothymidine,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/56679233,https://pubchem.ncbi.nlm.nih.gov/patent/ES-2458358-T3
+Azidothymidine,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/89479439,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2760857-A1
+Azidothymidine,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/90445142,https://pubchem.ncbi.nlm.nih.gov/patent/US-2014271547-A1
+Azidothymidine,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/130375412,https://pubchem.ncbi.nlm.nih.gov/patent/US-10449144-B2
+Azidothymidine,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/57284777,https://pubchem.ncbi.nlm.nih.gov/patent/US-5585373-A
+Azidothymidine,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/57155433,https://pubchem.ncbi.nlm.nih.gov/compound/57155433
+Azidothymidine,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/10594262,None
+Azidothymidine,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/136288884,None
+Azidothymidine,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/102576629,None
+Azidothymidine,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/88490101,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0236074-A1
+Azidothymidine,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/57103302,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0351021-A2
+Azidothymidine,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/68220216,https://pubchem.ncbi.nlm.nih.gov/patent/US-8034812-B2
+Azidothymidine,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/19967798,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0729070-A3
+Azidothymidine,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/68220235,https://pubchem.ncbi.nlm.nih.gov/patent/US-8034812-B2
+Azidothymidine,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/117680541,https://pubchem.ncbi.nlm.nih.gov/patent/US-2012070415-A1
+Azidothymidine,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/6333312,None
+Azidothymidine,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/130290413,https://pubchem.ncbi.nlm.nih.gov/patent/US-2017216275-A1
+Azidothymidine,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/22677591,None
+LSD,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/3938,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2020068832-A1
+LSD,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/165200,many
+LSD,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/56988771,https://pubchem.ncbi.nlm.nih.gov/patent/DE-2924102-A1
+LSD,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/9884289,n/a
+LSD,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/134553,many
+LSD,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/24837792,https://pubchem.ncbi.nlm.nih.gov/patent/US-3944582-A
+LSD,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/10427207,"some, bioassays"
+LSD,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/13059865, 
+LSD,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/76683560, 
+LSD,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/130318308, 
+LSD,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/13770164, 
+LSD,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/45357584, 
+LSD,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/3039342, 
+LSD,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/13823178, 
+LSD,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/67937682, 
+LSD,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/88985978, 
+LSD,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/70430592, 
+LSD,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/57175320, 
+LSD,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/13192408, 
+LSD,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/13192405, 
+LSD,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/44457782,https://pubchem.ncbi.nlm.nih.gov/patent/US-2021346346-A1
+LSD,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/132584757,n/a
+LSD,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/3058122,n/a
+LSD,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/10640901,n/a
+LSD,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/67938090,https://pubchem.ncbi.nlm.nih.gov/patent/EP-0220129-B1
+LSD,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/14723139,https://pubchem.ncbi.nlm.nih.gov/patent/US-5411966-A
+LSD,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/58459676,https://pubchem.ncbi.nlm.nih.gov/patent/US-9730923-B2
+LSD,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/4371364,n/a
+LSD,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/67821466,n/a
+LSD,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/68168631,https://patents.google.com/patent/US10584099B2/en
+LSD,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/56989523,n/a
+LSD,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/101648098,n/a
+LSD,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/23621001,n/a
+LSD,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/88840811,n/a
+LSD,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/8882005,n/a
+LSD,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/56843556,n/a
+LSD,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/123178010,https://patents.google.com/patent/US20120177730A1
+LSD,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/101872812,n/a
+LSD,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/126638676,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2017033019-A1
+LSD,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/57240530,https://pubchem.ncbi.nlm.nih.gov/patent/US-5037832-A
+LSD,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/89651741,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2794606-A1
+LSD,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/89705589,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2013107856-A1
+LSD,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/3938,many
+LSD,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/135838366,https://pubchem.ncbi.nlm.nih.gov/patent/US-4696928-A
+LSD,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/129198569,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2888252-B1
+LSD,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/88368790,https://patents.google.com/patent/JPH0920755A/en
+LSD,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/89651520,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2794606-A1
+LSD,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/18634859,https://pubchem.ncbi.nlm.nih.gov/patent/US-4866057-A
+LSD,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/9884289,n/a
+LSD,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/19850770,https://pubchem.ncbi.nlm.nih.gov/patent/US-4866057-A
+LSD,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/129029504,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2017061957-A1
+LSD,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/69959271,https://patents.google.com/patent/US5126448A
+LSD,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/23815464,n/a
+LSD,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/10621020,https://pubmed.ncbi.nlm.nih.gov/10052975/
+LSD,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/56988771,many
+LSD,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/42609829,https://www.nature.com/articles/nchembio.188
+LSD,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/123495938,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2013068470-A1#section=Abstract
+LSD,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/45124493,n/a
+LSD,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/13770164,many
+LSD,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/67563282,https://pubchem.ncbi.nlm.nih.gov/patent/US-2010004226-A1#section=Abstract
+Fentanyl,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/210867,Bioassay
+Fentanyl,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/101682792,n/a
+Fentanyl,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/61996,many
+Fentanyl,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/619324,n/a
+Fentanyl,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/21496449,https://pubchem.ncbi.nlm.nih.gov/patent/US-3993762-A
+Fentanyl,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/7365707,n/a
+Fentanyl,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/12666095,Bioassay
+Fentanyl,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/451052,n/a
+Fentanyl,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/85863080,n/a
+Fentanyl,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/129522083,n/a
+Fentanyl,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/21951518,https://pubchem.ncbi.nlm.nih.gov/patent/US-2014336214-A1
+Fentanyl,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/20068771,https://pubchem.ncbi.nlm.nih.gov/patent/US-5100903-A
+Fentanyl,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/10499027,n/a
+Fentanyl,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/12741855,Bioassay
+Fentanyl,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/133809799,n/a
+Fentanyl,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/19902260,https://pubchem.ncbi.nlm.nih.gov/patent/US-5100903-A
+Fentanyl,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/55456487,n/a
+Fentanyl,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/113074725,n/a
+Fentanyl,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/101682787,n/a
+Fentanyl,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/46048033,n/a
+Fentanyl,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/46044596,n/a
+Fentanyl,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/22503272,https://pubchem.ncbi.nlm.nih.gov/patent/US-2004204421-A1
+Fentanyl,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/12298017,https://pubchem.ncbi.nlm.nih.gov/patent/US-4179569-A
+Fentanyl,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/15075634,n/a
+Fentanyl,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/71258753,https://patents.google.com/patent/WO2013024291A2
+Fentanyl,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/57919355,https://pubchem.ncbi.nlm.nih.gov/patent/US-2003236259-A1
+Fentanyl,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/91753695,n/a
+Fentanyl,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/110408477,n/a
+Fentanyl,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/57919390,https://pubchem.ncbi.nlm.nih.gov/patent/US-2003236259-A1
+Fentanyl,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/120540,Bioassay
+Fentanyl,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/46044468,n/a
+Fentanyl,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/133342710,n/a
+Fentanyl,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/133316530,n/a
+Fentanyl,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/133282119,n/a
+Fentanyl,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/68820800,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006122187-A1
+Fentanyl,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/60716433,https://pubchem.ncbi.nlm.nih.gov/patent/US-8420657-B2
+Fentanyl,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/90268870,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2014102590-A1
+Fentanyl,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/46208762,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2010057833-A1
+Fentanyl,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/23961496,n/a
+Fentanyl,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/46213640,https://pubchem.ncbi.nlm.nih.gov/patent/KR-100990872-B1
+Fentanyl,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/123511870,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2012113860-A2
+Fentanyl,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/87843970,https://pubchem.ncbi.nlm.nih.gov/patent/US-7074779-B2
+Fentanyl,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/57150779,https://pubchem.ncbi.nlm.nih.gov/patent/WO-9740051-A1
+Fentanyl,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/57343443,n/a
+Fentanyl,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/19769681,https://pubchem.ncbi.nlm.nih.gov/patent/US-5202333-A
+Fentanyl,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/53890204,https://patents.google.com/patent/US4616023A
+Fentanyl,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/130393870,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2797921-B1
+Fentanyl,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/123921833,https://patents.google.com/patent/WO2013127266A1
+Fentanyl,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/88122657,https://patents.google.com/patent/US4885278A/en
+Fentanyl,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/70137168,https://pubchem.ncbi.nlm.nih.gov/patent/WO-9965910-A1
+Fentanyl,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/70633255,https://patents.google.com/patent/US4054569A
+Fentanyl,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/123142262,https://patents.google.com/patent/WO2012006321A2
+Fentanyl,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/74349214,n/a
+Fentanyl,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/88208824,https://patents.google.com/patent/WO2000042045A2
+Fentanyl,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/100937756,n/a
+Fentanyl,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/70204314,https://patents.google.com/patent/EP0820450B1
+Fentanyl,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/68869271,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009143392-A1#section=Full-Text
+Fentanyl,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/18597963,https://pubchem.ncbi.nlm.nih.gov/patent/US-4515949-A
+Fentanyl,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/163122578,n/a
+Fentanyl,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/88209026,https://patents.google.com/patent/WO2000042045A2
+Acid Blue 25,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/53758252,https://pubchem.ncbi.nlm.nih.gov/patent/US-3963763-A
+Acid Blue 25,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/91935116,n/a
+Acid Blue 25,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/20314677,https://pubchem.ncbi.nlm.nih.gov/patent/US-RE29724-E
+Acid Blue 25,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/28468134,https://patents.google.com/patent/US3211755A
+Acid Blue 25,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/123191991,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2012035122-A1
+Acid Blue 25,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/88847454,https://pubchem.ncbi.nlm.nih.gov/patent/US-3763159-A
+Acid Blue 25,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/80836,https://patents.google.com/patent/US5385842A
+Acid Blue 25,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/23316284,https://pubchem.ncbi.nlm.nih.gov/patent/US-4596666-A
+Acid Blue 25,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/117662018,https://pubchem.ncbi.nlm.nih.gov/patent/US-9228063-B2
+Acid Blue 25,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/118582126,https://pubchem.ncbi.nlm.nih.gov/patent/US-2021060995-A1
+Acid Blue 25,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/3100898,https://pubchem.ncbi.nlm.nih.gov/patent/US-4191566-A
+Acid Blue 25,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/23454406,https://pubchem.ncbi.nlm.nih.gov/patent/US-4276213-A
+Acid Blue 25,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/20136182,https://pubchem.ncbi.nlm.nih.gov/patent/US-4749521-A
+Acid Blue 25,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/12260350,https://pubchem.ncbi.nlm.nih.gov/patent/CN-103965648-A
+Acid Blue 25,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/57573599,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009166583-A1
+Acid Blue 25,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/19083394,https://pubchem.ncbi.nlm.nih.gov/patent/US-5759211-A
+Acid Blue 25,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/154153477,https://pubchem.ncbi.nlm.nih.gov/patent/US-3324150-A
+Acid Blue 25,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/21195065,https://pubchem.ncbi.nlm.nih.gov/patent/US-5973038-A
+Acid Blue 25,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/5027999,n/a
+Acid Blue 25,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/129772523,https://link.springer.com/article/10.1134/S0026261713040140
+Acid Blue 25,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/16205090,https://pubchem.ncbi.nlm.nih.gov/patent/DE-1644589-B2
+Acid Blue 25,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/59123478,https://pubchem.ncbi.nlm.nih.gov/patent/US-2003231237-A1
+Acid Blue 25,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/66487,https://pubchem.ncbi.nlm.nih.gov/patent/US-6140517-A
+Acid Blue 25,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/22975881,https://pubchem.ncbi.nlm.nih.gov/patent/US-2003110581-A1
+Acid Blue 25,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/71451728,n/a
+Acid Blue 25,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/70619779,https://pubchem.ncbi.nlm.nih.gov/patent/US-4128396-A
+Acid Blue 25,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/89357654,https://patents.google.com/patent/WO2007053227A1
+Acid Blue 25,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/101530693,n/a
+Acid Blue 25,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/91433520,https://pubmed.ncbi.nlm.nih.gov/20875748/
+Acid Blue 25,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/22918414,https://pubchem.ncbi.nlm.nih.gov/patent/US-5663336-A
+Acid Blue 25,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/134848698,n/a
+Acid Blue 25,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/5483103,https://pubchem.ncbi.nlm.nih.gov/patent/US-2015225584-A1
+Acid Blue 25,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/86048149,n/a
+Acid Blue 25,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/137212270,n/a
+Acid Blue 25,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/1727626,n/a
+Acid Blue 25,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/101530913,n/a
+Acid Blue 25,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/105919,n/a
+Acid Blue 25,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/1992311,n/a
+Acid Blue 25,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/1914542,n/a
+Acid Blue 25,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/117567,https://pubchem.ncbi.nlm.nih.gov/patent/JP-2009072919-A
+Acid Blue 25,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/102017117,n/a
+Acid Blue 25,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/136728154,n/a
+Acid Blue 25,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/10178481,https://patents.google.com/patent/US6919448B2
+Acid Blue 25,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/136132324,https://pubchem.ncbi.nlm.nih.gov/patent/US-2005020559-A1
+Acid Blue 25,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/90309725,
+Acid Blue 25,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/4426440,https://patents.google.com/patent/US20100055044A1
+Acid Blue 25,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/67741728,
+Acid Blue 25,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/68519583,https://patents.google.com/patent/US20100009927A1
+Acid Blue 25,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/69299605,n/a
+Acid Blue 25,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/136003417,n/a
+Acid Blue 25,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/101659428,n/a
+Acid Blue 25,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/136851558,n/a
+Acid Blue 25,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/54159364,https://pubchem.ncbi.nlm.nih.gov/patent/US-2015209428-A1
+Acid Blue 25,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/91212112,n/a
+Acid Blue 25,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/66696851,many
+Acid Blue 25,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/136079295,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2009099673-A1
+Acid Blue 25,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/69636218,https://patents.google.com/patent/WO2006015714A1
+Acid Blue 25,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/66835451,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2006007184-A1
+Acid Blue 25,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/69328133,https://pubchem.ncbi.nlm.nih.gov/patent/US-6916799-B2
+Acid Blue 25,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/91003879,https://pubchem.ncbi.nlm.nih.gov/patent/US-6423469-B1
+Avobenzone,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/69397178,https://pubchem.ncbi.nlm.nih.gov/patent/EP-1181000-B1
+Avobenzone,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/39444601,n/a
+Avobenzone,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/56836196,https://patents.google.com/patent/EP2600854B1/de
+Avobenzone,RDKit Atom 0,4,n/a,n/a
+Avobenzone,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/131632684,n/a
+Avobenzone,RDKit Atom 0,6,n/a,n/a
+Avobenzone,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/81633789,n/a
+Avobenzone,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/102107511,n/a
+Avobenzone,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/8862174,n/a
+Avobenzone,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/67831086,https://pubchem.ncbi.nlm.nih.gov/patent/WO-9116034-A1
+Avobenzone,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/43337768,n/a
+Avobenzone,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/18428769,https://pubchem.ncbi.nlm.nih.gov/patent/US-6448304-B1
+Avobenzone,RDKit Atom 0,13,n/a,n/a
+Avobenzone,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/43321130,n/a
+Avobenzone,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/72034670,n/a
+Avobenzone,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/105089397,n/a
+Avobenzone,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/56836133,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2012016619-A1
+Avobenzone,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/63411706,n/a
+Avobenzone,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/115781741,n/a
+Avobenzone,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/43625029,https://pubchem.ncbi.nlm.nih.gov/patent/US-2018085348-A1
+Avobenzone,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/102420223,https://patentscope.wipo.int/search/en/result.jsf?inchikey=ZMUYUNCUFSYIOQ-UHFFFAOYSA-N
+Avobenzone,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/123816547,https://pubchem.ncbi.nlm.nih.gov/patent/US-2018155288-A1
+Avobenzone,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/89752401,n/a
+Avobenzone,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/69262951,https://pubchem.ncbi.nlm.nih.gov/patent/WO-9423693-A1
+Avobenzone,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/89601532,https://patents.google.com/patent/US20140323376A1
+Avobenzone,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/10592228,n/a
+Avobenzone,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/102454724,n/a
+Avobenzone,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/66756943,https://pubchem.ncbi.nlm.nih.gov/patent/US-8119107-B2
+Avobenzone,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/15262337,n/a
+Avobenzone,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/121423935,https://patents.google.com/patent/US9452220B2
+Avobenzone,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/9857795,n/a
+Avobenzone,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/134950302,n/a
+Avobenzone,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/89393392,https://pubchem.ncbi.nlm.nih.gov/patent/US-8362177-B1
+Avobenzone,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/18370144,n/a
+Avobenzone,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/237566,n/a
+Avobenzone,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/62393856,n/a
+Avobenzone,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/117535120,n/a
+Avobenzone,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/69247116,n/a
+Avobenzone,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/62745021,n/a
+Avobenzone,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/67376073,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2004105712-A1
+Avobenzone,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/90148382,https://pubchem.ncbi.nlm.nih.gov/patent/US-9059408-B2
+Avobenzone,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/89110687,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2010003533-A2
+Avobenzone,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/88264669,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2388002-A2
+Avobenzone,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/123262979,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2012084941-A1
+Avobenzone,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/102300581,n/a
+Avobenzone,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/101259804,n/a
+Avobenzone,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/88267104,n/a
+Avobenzone,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/91595142,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2010050781-A1
+Avobenzone,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/10266401,n/a
+Avobenzone,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/58802136,https://patents.google.com/patent/US7176237B2
+Avobenzone,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/89652998,https://pubchem.ncbi.nlm.nih.gov/patent/EP-1775335-B9
+Avobenzone,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/101683095,n/a
+Avobenzone,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/10945525,n/a
+Avobenzone,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/57236739,https://pubchem.ncbi.nlm.nih.gov/patent/US-4193931-A
+Avobenzone,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/123440338,https://patents.google.com/patent/WO2014086032A1
+Avobenzone,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/122224185,n/a
+Avobenzone,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/23208426,https://patents.google.com/patent/EP0654488B1
+Avobenzone,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/87402810,https://patents.google.com/patent/US20130023518A1
+Avobenzone,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/68630174,https://pubchem.ncbi.nlm.nih.gov/patent/EP-1641792-B1
+Avobenzone,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/88746062,https://pubchem.ncbi.nlm.nih.gov/patent/US-4011140-A
+2-diphenylaminocarbazole,RDKit Atom 0,1,https://pubchem.ncbi.nlm.nih.gov/compound/118405815,https://pubchem.ncbi.nlm.nih.gov/patent/US-2015280136-A1
+2-diphenylaminocarbazole,RDKit Atom 0,2,https://pubchem.ncbi.nlm.nih.gov/compound/57120863,https://pubchem.ncbi.nlm.nih.gov/patent/US-2021135127-A1
+2-diphenylaminocarbazole,RDKit Atom 0,3,https://pubchem.ncbi.nlm.nih.gov/compound/117633923,https://pubchem.ncbi.nlm.nih.gov/patent/EP-1802706-B1
+2-diphenylaminocarbazole,RDKit Atom 0,4,https://pubchem.ncbi.nlm.nih.gov/compound/57702177,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009131673-A1
+2-diphenylaminocarbazole,RDKit Atom 0,5,https://pubchem.ncbi.nlm.nih.gov/compound/58401023,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,6,https://pubchem.ncbi.nlm.nih.gov/compound/135173910,https://patents.google.com/patent/US11289654B2/en
+2-diphenylaminocarbazole,RDKit Atom 0,7,https://pubchem.ncbi.nlm.nih.gov/compound/54511588,https://pubchem.ncbi.nlm.nih.gov/patent/US-4931350-A
+2-diphenylaminocarbazole,RDKit Atom 0,8,https://pubchem.ncbi.nlm.nih.gov/compound/53473286,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,9,https://pubchem.ncbi.nlm.nih.gov/compound/66650204,https://pubchem.ncbi.nlm.nih.gov/patent/CN-114163447-A
+2-diphenylaminocarbazole,RDKit Atom 0,10,https://pubchem.ncbi.nlm.nih.gov/compound/85666158,https://pubchem.ncbi.nlm.nih.gov/patent/US-2018040829-A1
+2-diphenylaminocarbazole,RDKit Atom 0,11,https://pubchem.ncbi.nlm.nih.gov/compound/118134114,https://pubchem.ncbi.nlm.nih.gov/patent/US-2015162542-A1
+2-diphenylaminocarbazole,RDKit Atom 0,12,https://pubchem.ncbi.nlm.nih.gov/compound/15641729,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,13,https://pubchem.ncbi.nlm.nih.gov/compound/72736479,https://patentscope.wipo.int/search/en/detail.jsf?docId=JP273277091&_cid=P11-LFVQ0L-56617-1
+2-diphenylaminocarbazole,RDKit Atom 0,14,https://pubchem.ncbi.nlm.nih.gov/compound/131980099,https://pubchem.ncbi.nlm.nih.gov/patent/US-2017288148-A1
+2-diphenylaminocarbazole,RDKit Atom 0,15,https://pubchem.ncbi.nlm.nih.gov/compound/101115479,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,16,https://pubchem.ncbi.nlm.nih.gov/compound/102333726,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,17,https://pubchem.ncbi.nlm.nih.gov/compound/59133370,https://pubchem.ncbi.nlm.nih.gov/patent/US-2018090687-A1
+2-diphenylaminocarbazole,RDKit Atom 0,18,https://pubchem.ncbi.nlm.nih.gov/compound/132502906,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,19,https://pubchem.ncbi.nlm.nih.gov/compound/12505268,n/a
+2-diphenylaminocarbazole,RDKit Atom 0,20,https://pubchem.ncbi.nlm.nih.gov/compound/88364885,https://pubchem.ncbi.nlm.nih.gov/patent/US-2012126180-A1
+2-diphenylaminocarbazole,RDKIT Atom n,1,https://pubchem.ncbi.nlm.nih.gov/compound/10892657,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,2,https://pubchem.ncbi.nlm.nih.gov/compound/123135311,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,3,https://pubchem.ncbi.nlm.nih.gov/compound/122210717,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,4,https://pubchem.ncbi.nlm.nih.gov/compound/11810541,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,5,https://pubchem.ncbi.nlm.nih.gov/compound/121228673,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2021012717-A1
+2-diphenylaminocarbazole,RDKIT Atom n,6,https://pubchem.ncbi.nlm.nih.gov/compound/12065985,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,7,https://pubchem.ncbi.nlm.nih.gov/compound/58966992,https://pubchem.ncbi.nlm.nih.gov/patent/US-2007213327-A1
+2-diphenylaminocarbazole,RDKIT Atom n,8,https://pubchem.ncbi.nlm.nih.gov/compound/102163265,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,9,https://pubchem.ncbi.nlm.nih.gov/compound/68969564,https://pubchem.ncbi.nlm.nih.gov/patent/US-2009326006-A1
+2-diphenylaminocarbazole,RDKIT Atom n,10,https://pubchem.ncbi.nlm.nih.gov/compound/71456541,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,11,https://pubchem.ncbi.nlm.nih.gov/compound/101082530,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,12,https://pubchem.ncbi.nlm.nih.gov/compound/9836049,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,13,https://pubchem.ncbi.nlm.nih.gov/compound/10585958,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,14,https://pubchem.ncbi.nlm.nih.gov/compound/134852402,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,15,https://pubchem.ncbi.nlm.nih.gov/compound/699711,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,16,https://pubchem.ncbi.nlm.nih.gov/compound/101767888,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,17,https://pubchem.ncbi.nlm.nih.gov/compound/59699922,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2007106236-A2
+2-diphenylaminocarbazole,RDKIT Atom n,18,https://pubchem.ncbi.nlm.nih.gov/compound/102515925,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,19,https://pubchem.ncbi.nlm.nih.gov/compound/729459,n/a
+2-diphenylaminocarbazole,RDKIT Atom n,20,https://pubchem.ncbi.nlm.nih.gov/compound/5378237,n/a
+2-diphenylaminocarbazole,OEChem,1,https://pubchem.ncbi.nlm.nih.gov/compound/101378249,n/a
+2-diphenylaminocarbazole,OEChem,2,https://pubchem.ncbi.nlm.nih.gov/compound/11374507,n/a
+2-diphenylaminocarbazole,OEChem,3,https://pubchem.ncbi.nlm.nih.gov/compound/134982929,n/a
+2-diphenylaminocarbazole,OEChem,4,https://pubchem.ncbi.nlm.nih.gov/compound/121277727,n/a
+2-diphenylaminocarbazole,OEChem,5,https://pubchem.ncbi.nlm.nih.gov/compound/91515383,https://pubchem.ncbi.nlm.nih.gov/patent/US-2004151944-A1
+2-diphenylaminocarbazole,OEChem,6,https://pubchem.ncbi.nlm.nih.gov/compound/122204293,n/a
+2-diphenylaminocarbazole,OEChem,7,https://pubchem.ncbi.nlm.nih.gov/compound/136880633,n/a
+2-diphenylaminocarbazole,OEChem,8,https://pubchem.ncbi.nlm.nih.gov/compound/632403,n/a
+2-diphenylaminocarbazole,OEChem,9,https://pubchem.ncbi.nlm.nih.gov/compound/10178481,https://patents.google.com/patent/US6919448B2
+2-diphenylaminocarbazole,OEChem,10,https://pubchem.ncbi.nlm.nih.gov/compound/102090697,n/a
+2-diphenylaminocarbazole,OEChem,11,https://pubchem.ncbi.nlm.nih.gov/compound/57599395,https://pubchem.ncbi.nlm.nih.gov/patent/US-2006216621-A1
+2-diphenylaminocarbazole,OEChem,12,https://pubchem.ncbi.nlm.nih.gov/compound/54275018,https://pubchem.ncbi.nlm.nih.gov/patent/US-5041366-A
+2-diphenylaminocarbazole,OEChem,13,https://pubchem.ncbi.nlm.nih.gov/compound/137052079,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2013105026-A1
+2-diphenylaminocarbazole,OEChem,14,https://pubchem.ncbi.nlm.nih.gov/compound/89304021,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2535331-A1
+2-diphenylaminocarbazole,OEChem,15,https://pubchem.ncbi.nlm.nih.gov/compound/124008654,https://pubchem.ncbi.nlm.nih.gov/patent/WO-2013178041-A1
+2-diphenylaminocarbazole,OEChem,16,https://pubchem.ncbi.nlm.nih.gov/compound/118122961,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2878599-A1
+2-diphenylaminocarbazole,OEChem,17,https://pubchem.ncbi.nlm.nih.gov/compound/89296775,https://pubchem.ncbi.nlm.nih.gov/patent/EP-2535331-A1
+2-diphenylaminocarbazole,OEChem,18,https://pubchem.ncbi.nlm.nih.gov/compound/90180369,https://pubchem.ncbi.nlm.nih.gov/patent/US-9899600-B2
+2-diphenylaminocarbazole,OEChem,19,https://pubchem.ncbi.nlm.nih.gov/compound/136436068,n/a
+2-diphenylaminocarbazole,OEChem,20,https://pubchem.ncbi.nlm.nih.gov/compound/60136245,https://pubchem.ncbi.nlm.nih.gov/patent/US-2010314615-A1
