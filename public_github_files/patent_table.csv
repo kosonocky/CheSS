@@ -1,0 +1,481 @@
+query,canon,rank,cid,patent,descriptor,druglike,dyelike,function,fingerprint,SDFA,NDFA,smiles
+Penicillin,RDKit Atom 0,1,18643908,US-4996313-A,Beta-Lactam Antibiotic,1,0,1,0.78,0,0,COC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,2,70630416,US-4171304-A,Beta-Lactam Antibiotic,1,0,1,0.92,0,0,CC1(CI)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,3,23616098,n/a,n/a,0,0,0,0.72,0,0,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2CC1C(=O)[O-]
+Penicillin,RDKit Atom 0,4,70367018,n/a,n/a,0,0,0,0.92,0,0,CC1(CF)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,5,21500059,US-4010156-A,Beta-Lactam Antibiotic,1,0,1,0.75,0,0,CC1(Cl)CSC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,6,57624296,US-2009081766-A1,Beta-Lactam Antibiotic,1,0,1,0.49,1,0,CC1(C)CC2C(NC(=O)CCc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,7,58112358,US20190315770A1,Beta-Lactam Antibiotic,1,0,1,0.7,0,0,CC1(C)SC2C(CC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,8,20389584,US-4171304-A,Beta-Lactam Antibiotic,1,0,1,0.83,0,0,CC1(CI)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,9,56988098,US-4461726-A,Beta-Lactam Antibiotic,1,0,1,0.68,0,0,CC1(C)SC2C(C(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,10,102119253,n/a,n/a,0,0,0,0.71,0,0,COC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,11,13277548,US-4942229-A,Beta-Lactam Antibiotic,1,0,1,0.94,0,0,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)OCCl
+Penicillin,RDKit Atom 0,12,152766084,US-3954732-A,Beta-Lactam Antibiotic,1,0,1,0.69,0,0,CC1(Cl)CSC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,13,22874634,US-5656623-A,Beta-Lactam Antibiotic,1,0,1,0.83,0,0,CC1(CO)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,14,4393031,n/a,n/a,0,0,0,0.81,0,0,CC1(C)SC2C(NC(=O)Nc3cccc4ccccc34)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,15,56628131,US-4847247-A,Elastase Inhibitor,1,0,0,0.9,0,0,CC1(C)SC2C(NC(=O)C(F)(F)F)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,16,11741115,n/a,n/a,0,0,0,0.8,0,0,CC1(C)SC2C(NC(=O)CC3OCCc4ccccc43)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,17,54281720,US4077967A,Beta-Lactam Antibiotic,1,0,1,0.96,0,0,CC1(C)SC2C(NC(=O)Cc3ccncc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,18,70547535,EP-0005889-B1,Beta-Lactam Antibiotic,1,0,1,0.68,0,0,CC1(C)SC2C(C(O)c3ccccc3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,19,14829431,US-4159272-A,Beta-Lactam Antibiotic,1,0,1,0.9,0,0,CC1(C)SC2C(NC(=O)Cc3cccs3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom 0,20,5046855,n/a,n/a,0,0,0,0.82,0,0,CC1(C)SC2C(NC(=O)Nc3cccc(Cl)c3)C(=O)N2C1C(=O)[O-]
+Penicillin,RDKit Atom n,1,108789963,n/a,n/a,0,0,0,0.9,0,0,Cc1ccc(OCCC(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)[O-])cc1
+Penicillin,RDKit Atom n,2,108788832,n/a,n/a,0,0,0,0.81,0,0,CCOc1cccc(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)[O-])c1
+Penicillin,RDKit Atom n,3,57624293,US-2009081766-A1,Beta-Lactam Antibiotic,1,0,1,0.49,1,0,Cc1ccc(CCC(=O)NC2C(=O)N3C2CC(C)(C)C3C(=O)[O-])cc1
+Penicillin,RDKit Atom n,4,108795879,n/a,n/a,0,0,0,0.9,0,0,CCc1ccc(OCCC(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)[O-])cc1
+Penicillin,RDKit Atom n,5,20341961,US-4200572-A,Beta-Lactam Antibiotic,1,0,1,0.46,1,0,COc1cccc(C(=O)NC2C(=O)N3C2CN(C(C)=O)C3C(=O)[O-])c1
+Penicillin,RDKit Atom n,6,203884,n/a,n/a,0,0,0,0.85,0,0,Cc1ccc(OCC(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)[O-])cc1Cl
+Penicillin,RDKit Atom n,7,44458116,n/a,n/a,0,0,0,0.82,0,0,CCOc1ccc(C=CNC(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)[O-])cc1
+Penicillin,RDKit Atom n,8,123234728,WO-2014138046-A1,Formyl Peptide Receptor Agonist,1,0,0,0.26,0,0,Cc1ccc(NC(=O)C2C3C=CC(C2C(=O)[O-])C3C(C)(C)C)cc1
+Penicillin,RDKit Atom n,9,59069194,US-6815440-B2,Metalloprotease Inhibitor,1,0,0,0.41,0,0,COc1ccc(S(=O)(=O)N2Cc3cc([N+](=O)[O-])ccc3CC2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,10,50877043,n/a,n/a,0,0,0,0.31,0,0,Cc1ccc(S(=O)(=O)NC2C3C=CC(C3)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,11,5211680,n/a,n/a,0,0,0,0.35,0,0,COc1ccc(CCNC(=O)C2C3C=CC(O3)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,12,3288488,n/a,n/a,0,0,0,0.33,0,0,Cc1ccc(NC(=O)C2C(C(=O)[O-])C3C=CC2(C)O3)cc1
+Penicillin,RDKit Atom n,13,11047455,n/a,n/a,0,0,0,0.41,0,0,COc1ccc(S(=O)(=O)N2Cc3ccc([N+](=O)[O-])cc3CC2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,14,11860261,n/a,n/a,0,0,0,0.26,0,0,COc1ccc(NC(=O)C2C3C=CC(C4CC34)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,15,121879937,n/a,n/a,0,0,0,0.4,0,0,COc1ccc(C(=O)CCC(=O)N2CC3CCCC3C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,16,72811315,US-2016039825-A1,S1P / ATX Receptor Agonist,1,0,0,0.4,0,0,COc1ccc(COC(=O)N2Cc3[nH]c(C)cc3C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,17,53715169,CA-2297988-A1,Metalloprotease Inhibitor,1,0,0,0.43,0,0,COc1ccc(S(=O)(=O)N2Cc3sccc3C(O)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,18,56796420,n/a,n/a,0,0,0,0.26,0,0,COC(=O)Nc1ccc(NC(=O)C2C3C=CC(C3)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,19,59847560,n/a,n/a,0,0,0,0.24,0,0,COc1ccc(COC(=O)C2C3C=CC(C3)C2C(=O)[O-])cc1
+Penicillin,RDKit Atom n,20,11859780,n/a,n/a,0,0,0,0.26,0,0,Cc1ccc(NC(=O)C2C3C=CC(C3)C2C(=O)[O-])cc1
+Penicillin,OEChem,1,135259185,WO-2018134148-A1,MKNK Inhibitor,1,0,0,0.45,0,0,CC1=C2C(=O)NC3(C)C=C(C(Nc4ncnc5scnc45)=C1)N23
+Penicillin,OEChem,2,20559382,US-4304779-A,Beta-Lactam Antibiotic,1,0,1,0.54,1,0,CC1(C)SC2N(C(=O)C2(Br)C(O)c2cnc3ccccc3c2)C1C#N
+Penicillin,OEChem,3,53944004,US-4077967-A,Beta-Lactam Antibiotic,1,0,1,0.74,0,0,CC1(C)SC2N(C(=O)C2(C)NC(=O)c2ccccc2-c2ccccc2)C1C(=O)[O-]
+Penicillin,OEChem,4,88832135,US-3954731-A,Beta-Lactam Antibiotic,1,0,1,0.8,0,0,CC1(C)SC2N(C(=O)C2(O)NC(=O)C(S)c2ccc(Cl)cc2)C1C(=O)[O-]
+Penicillin,OEChem,5,20536617,US4333944A,Sedative,1,0,0,0.43,0,0,CC1=CC2=C(N3C[NH+](Br)N=C3C(c3ccccc3Cl)=NC2)S1=O
+Penicillin,OEChem,6,88762822,n/a,n/a,0,0,0,0.46,0,0,CCN1C(=C2C(=O)N(CCC[NH+]3CC=CC3)C(=S)S2=C(C)C)Oc2ccccc21
+Penicillin,OEChem,7,88151512,EP1091959B1,Sedative,1,0,0,0.44,0,0,CCC1CC(=S)C2=C(Cc3cn4c(c3N2)CC(=S)C=C4OC)C1CC
+Penicillin,OEChem,8,140604038,US6342340,Dye,0,0,0,0.34,0,0,CN1C(=CC2C(=O)C(O)C(C=C3Oc4ccccc4N3C)C2O)Oc2ccccc21
+Penicillin,OEChem,9,101392657,n/a,n/a,0,0,0,0.4,0,0,CC(=O)N1C(=S)N(C)C2(C)N(C)C(=S)N(C(=O)c3ccccc3)C12C
+Penicillin,OEChem,10,17176746,n/a,n/a,0,0,0,0.48,0,0,NC1=[NH+]C(=O)C(C2(O)C(=O)N(Cc3ccc4ccccc4c3)c3ccccc32)S1
+Penicillin,OEChem,11,10001910,n/a,n/a,0,0,0,0.43,0,0,CN1C(=CC2C(=O)C(=CC3=[N+](C)c4ccccc4C3(C)C)C2=S)Oc2ccccc21
+Penicillin,OEChem,12,72736793,n/a,n/a,0,0,0,0.46,0,0,CN(C)C1=[NH+]C2C(=CC(c3ccccc3)C3C(=O)N(c4ccccc4)C(=O)C23)S1
+Penicillin,OEChem,13,67836365,EP-0275888-A2\,Cardiovascular,1,0,0,0.42,0,0,CC1(C)CC(=O)C2=C([NH2+]1)c1nc(-c3ccc(-n4cccc4)cc3)[nH]c1CC2
+Penicillin,OEChem,14,59898268,US7173041B2/en,Topoisomerase Inhibitor,1,0,0,0.44,0,0,CCC1(O)C(=O)CCC2=C1C=C1c3nc4cccc(NC)c4cc3C[NH+]1C2
+Penicillin,OEChem,15,53877724,US-4077967-A,Beta-Lactam Antibiotic,1,0,1,0.8,0,0,CC1(C)SC2N(C(=O)C2(Cc2ccccc2)NC(=O)Cc2ccccc2)C1C(=O)[O-]
+Penicillin,OEChem,16,88640462,WO-8807534-A1,Beta-Lactamase Inhibitor,1,0,1,0.57,1,0,CC1(C)SC2N(C(=O)C23OC3(Br)[N+](C)(C=O)c2ccccc2)C1C(=O)[O-]
+Penicillin,OEChem,17,24811111,n/a,n/a,0,0,0,0.48,0,0,C[NH+]1C2C(=O)C(c3ccccc3)=C(C(=O)[O-])C3C(S(=O)(=O)c4ccccc4)CC321
+Penicillin,OEChem,18,86733573,US-3965111-A,Sedative,1,0,0,0.43,0,0,CC1CC2=C(N3C[NH+](C)N=C3C(c3ccccc3Cl)=NC2)S1=O
+Penicillin,OEChem,19,58637593,n/a,n/a,0,0,0,0.28,0,0,C1=C2NC(=Nc3nc(cs3)C3=CSC(=Nc4nc2cs4)N3)S1
+Penicillin,OEChem,20,20559367,US-4304779-A,Beta-Lactam Antibiotic,1,0,1,0.55,1,0,CC1(C)SC2N(C(=O)C2(Cl)C(O)c2cccnc2)C1C#N
+Nirmatrelvir,RDKit Atom 0,1,89072452,US-7192957-B2,HCV Protease Inhibitor,1,0,1,0.75,0,0,CC(C)(C)C(CNC(=O)C(F)(F)F)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(C(=O)C(N)=O)C1CC1)C2(C)C)C(C)(C)C
+Nirmatrelvir,RDKit Atom 0,2,513166,10.1021/ol035826v,HCV Protease Inhibitor,1,0,1,0.6,0,0,CC(C)C(NC(=O)NCC(F)(F)F)C(=O)N1CCC2C1C1(CCC1)C(=O)N2C(=O)C1CC1
+Nirmatrelvir,RDKit Atom 0,3,89032648,US-7579320-B2,IAP BIR Ligand,1,0,0,0.55,0,0,CC(C)(C)C(NC(=O)C(F)(F)F)C(=O)N1CC(NC=O)CC1C(=O)NC1CCCc2ccccc21
+Nirmatrelvir,RDKit Atom 0,4,88251520,WO-2008141227-A1,HCV Protease Inhibitor,1,0,1,0.62,0,0,CC(C)(C)C(Nc1cccc(C(F)(F)F)c1)C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C=O)C2(C)C
+Nirmatrelvir,RDKit Atom 0,5,89128765,n/a,n/a,0,0,0,0.54,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)c1c(C(C)(C)C)c(=O)c1=O)C(C)(C)C)C1(C)CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,6,89386569,n/a,n/a,0,0,0,0.67,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCCCC1=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom 0,7,163831729,WO-2006113942-A2,Peptidase Inhibitor,1,0,1,0.73,0,0,CC(C)C(CN(C)C(=O)C(F)(F)F)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C
+Nirmatrelvir,RDKit Atom 0,8,58846078,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.65,0,0,CC(C)(C)OC(=O)C(CC(F)(F)F)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C
+Nirmatrelvir,RDKit Atom 0,9,10146053,n/a,n/a,0,0,0,0.65,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC1CC3CCC1C3)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,10,70672489,US-8067379-B2,HCV Protease Inhibitor,1,0,1,0.56,1,0,CC(C)(C)C(NC(=O)NC1(C2CCCS2(=O)=O)CCCCC1)C(=O)N1CC2C(C1C(=O)NC(CCC1CC1)C(=O)C(=O)NC1CC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,11,49777413,10.1021/jm9016027,HCV Protease Inhibitor,1,0,1,0.56,1,0,CC(C)(C)C(NC(=O)NC1(C2CCCCS2(=O)=O)CCCCC1)C(=O)N1CC2C(C1C(=O)NC(CCC1CC1)C(=O)C(=O)NC1CC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,12,70332592,US-7192957-B2,HCV Protease Inhibitor,1,0,1,0.64,0,0,CC(C)(C)C(NC(=O)NC1(CNS(C)(=O)=O)CCCCC1)C(=O)N1CC2C(C1C(=O)NC(C(=O)C(N)=O)C1CCC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,13,58799854,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.63,0,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCOC1=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom 0,14,11758272,US-2006276405-A1,HCV Protease Inhibitor,1,0,1,0.65,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C)(C)C)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,15,117757300,EP-1730110-B9,HCV Protease Inhibitor,1,0,1,0.61,0,0,CC(C)(C)C(NC(=O)NC1(CS(=O)(=O)C(C)(C)C)CCCCC1)C(=O)N1CC2C(C1C(=O)NC(C(=O)C(N)=O)C1CCC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,16,70672229,US-8067379-B2,HCV Protease Inhibitor,1,0,1,0.6,0,0,CC(C)(C)C(NC(=O)NC1(CS(=O)(=O)C(C)(C)C)CCCCC1)C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(=O)NC1CC1)C2(C)C
+Nirmatrelvir,RDKit Atom 0,17,69712881,US-2004209897-A1,Kinase Inhibitor,1,0,0,0.34,0,0,CC(C)(OC(=O)C(F)(F)F)C(=O)N1CC(c2cc(-c3cc4c([nH]3)CCNC4=O)ccn2)=Cc2ccccc21
+Nirmatrelvir,RDKit Atom 0,18,58815070,US-2007042968-A1,HCV Protease Inhibitor,1,0,1,0.59,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC1(CSc3ccccn3)CCCCC1)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom 0,19,91211330,US-2006281689-A1,HCV Protease Inhibitor,1,0,1,0.56,1,0,CNC(=O)C(=O)C(=CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCCS1(=O)=O)C(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom 0,20,57842534,US-7244721-B2,HCV Protease Inhibitor,1,0,1,0.59,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C)(C)C)C1Cc3ccccc3C1)C2(C)C
+Nirmatrelvir,RDKit Atom n,1,58799854,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.63,0,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCOC1=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,2,89386569,n/a,n/a,0,0,0,0.67,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCCCC1=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,3,58799868,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.58,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCCS1(=O)=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,4,58799834,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.6,0,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(Cn1ccccc1=O)C(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,5,58908615,US-7244721-B2,HCV Protease Inhibitor,1,0,1,0.66,0,0,C=CCNC(=O)C(=O)C(CC#CC)NC(=O)C1C2C(CN1C(=O)C(NC(=O)OC(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,6,58815070,US-2007042968-A1,HCV Protease Inhibitor,1,0,1,0.59,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC1(CSc3ccccn3)CCCCC1)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,7,58845760,US-2006276405-A1,HCV Protease Inhibitor,1,0,1,0.68,0,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C(N)=O)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,8,91211330,US-2006281689-A1,HCV Protease Inhibitor,1,0,1,0.56,1,0,CNC(=O)C(=O)C(=CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN1CCCS1(=O)=O)C(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,9,57842534,US-7244721-B2,HCV Protease Inhibitor,1,0,1,0.59,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C)(C)C)C1Cc3ccccc3C1)C2(C)C
+Nirmatrelvir,RDKit Atom n,10,89128765,n/a,n/a,0,0,0,0.54,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)c1c(C(C)(C)C)c(=O)c1=O)C(C)(C)C)C1(C)CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,11,70332562,US-7759499-B2,HCV Protease Inhibitor,1,0,1,0.61,0,0,CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)S(=O)(=O)N(C)C)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,12,58751308,US-2006252698-A1,Peptidase Inhibitor,1,0,1,0.65,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C)(C)C)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,13,90824016,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.55,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(Cn1cc3ccccc3c1O)C(C)(C)C)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,14,89072393,n/a,n/a,0,0,0,0.58,0,0,C=CCNC(=O)C(=O)C(CC(C)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)S(=O)(=O)N(C)C)C(C)(C)C)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,15,58845752,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.62,0,0,CNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(C(=O)OC1CCOC1)C(C)(C)C)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,16,10146053,n/a,n/a,0,0,0,0.65,0,0,C=CCNC(=O)C(=O)C(CC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC1CC3CCC1C3)C1CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,17,6483344,US-2006276406-A1,HCV Protease Inhibitor,1,0,1,0.62,0,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,18,143314765,WO2006113942,Peptidase Inhibitor,1,0,1,0.61,0,0,C#CCCNC(=O)C(=O)C(CCC#C)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC1(CS(C)(=O)=O)CCCCC1)C(C)(C)C)C2(C)C
+Nirmatrelvir,RDKit Atom n,19,58821357,US-7192957-B2,HCV Protease Inhibitor,1,0,1,0.59,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)S(=O)(=O)CC)C(C)(C)C)C1(C)CCCCC1)C2(C)C
+Nirmatrelvir,RDKit Atom n,20,58821916,US-7192957-B2,HCV Protease Inhibitor,1,0,1,0.55,1,0,C=CCNC(=O)C(=O)C(CCC(F)(F)F)NC(=O)C1C2C(CN1C(=O)C(NC(=O)NC(CN(C)S(=O)(=O)CC)C(C)(C)C)C1Cc3ccccc3C1)C2(C)C
+Nirmatrelvir,OEChem,1,123307518,WO-2013107405-A1,Dehydrogenase Inhibitor,1,0,0,0.4,0,0,C=C1C2C[N+]1(C1CC(F)(F)C1)C(=O)C(N(C(=O)C1CCCN1C(=O)OC)c1cccc(F)c1)c1ccccc12
+Nirmatrelvir,OEChem,2,87441437,CA-2757866-A1,Dehydrogenase Inhibitor,1,0,0,0.38,0,0,CC(=O)NC12CC3CC(C1)C(N=C(NC#N)C(C(C)C)[NH+]1CCN(c4ccc(C(F)(F)F)cn4)CC1)C(C3)C2
+Nirmatrelvir,OEChem,3,123215879,WO-2014089379-A1,ATR Kinase Inhibitor,1,0,0,0.44,0,0,CCC12CC(C(C(=O)NC3CNC(Cl)CC3OC)C(N)[NH3+])[NH+](C)C=C(CC#N)CC1(C)C2
+Nirmatrelvir,OEChem,4,5065329,n/a,n/a,0,0,0,0.37,0,0,CC(C)[NH+]1CCC2=C(C1)C1(C(=O)Nc3ccccc31)C(C#N)(C#N)C(N)=C2C#N
+Nirmatrelvir,OEChem,5,71268558,US-2013053410-A1,MDM2 Inhibitor,1,0,0,0.4,0,0,COc1cc(N2C[NH+]3C(C2=O)C(c2cccc(Cl)c2F)C2(C(=O)Nc4ccncc42)C3CC(C)(C)C)ccc1C(N)=O
+Nirmatrelvir,OEChem,6,53344667,n/a,n/a,0,0,0,0.36,0,0,COC(=O)N1CC2C(C1)C2(C#N)c1ccc(-c2ccc3c(c2)CC2C(CNC(C)=O)OC(=O)N32)cc1
+Nirmatrelvir,OEChem,7,58262781,US-2011117057-A1,HCV Protease Inhibitor,1,0,1,0.56,1,1,CC1(C)C2CN(C(=O)C(NC(=O)NC34CC5CC(CC(C5)C3)C4)C3Cc4ccccc4C3)C(C(=O)CC(CC3CC3)C(=O)C(N)=O)C21
+Nirmatrelvir,OEChem,8,137371163,US-2019002436-A1,RSV Inhibitor,1,0,1,0.35,1,1,COC(=O)N1CC2(C1)C(=O)N(Cc1ncc3ccccc3c1-c1ccc(C(N)C(F)(F)F)nc1)c1ccccc12
+Nirmatrelvir,OEChem,9,89114369,US-2012270838-A1,GPCR Agonist,1,0,0,0.37,0,0,C=C1CC(C2=[NH+]C3(CCN(S(=O)(=O)CCc4ccc(N5C(=O)CNC5=O)cc4C)CC3)C(=O)N2)CC(C)(C)C1
+Nirmatrelvir,OEChem,10,11997330,n/a,n/a,0,0,0,0.37,0,0,C=CCN1C(=O)N(C2CC2)C(=O)C2NC(Cc3ccc(N(C)C(=O)c4ccc(C#N)nc4)nc3)=[NH+]C21
+Nirmatrelvir,OEChem,11,123849611,WO-2011143521-A2,CD26 Inhibitor,1,0,0,0.41,0,0,CCC1C2CC3CC([NH2+]CC(=O)N4CCCC4C#N)(C2)CC1(N(C)c1ccc(C#N)cn1)C3
+Nirmatrelvir,OEChem,12,130253486,US-9714243-B2,HIV Integrase Inhibitor,1,0,0,0.36,0,0,CC1CCC2(C1C)N(C)C(=O)c1c([O-])c(=O)c(-c3nnc(Cc4ccc(F)cc4F)s3)cn1N2C
+Nirmatrelvir,OEChem,13,126592125,WO-2017025989-A1,Dehydrogenase Inhibitor,1,0,0,0.34,0,0,CNc1cccc(Cl)c1C(=N)C(C)C(C=O)C[NH+]1C2CC3CC1CC(C#N)(C3)C2
+Nirmatrelvir,OEChem,14,67152605,US-2011118283-A1,MDM2 Inhibitor,1,0,0,0.39,0,0,CC(C)(C)CC1[NH+](C(C(N)=O)C2COC(C)(C)O2)C(C(=O)[O-])C(c2cccc(Cl)c2F)C1(C#N)c1ncc(Cl)cc1F
+Nirmatrelvir,OEChem,15,134321551,EP-2941432-B1,ATR Protein Kinase Inhibitor,1,0,0,0.46,0,0,CC1CCC(C2=C(F)C([NH+]3CCN4CCN(C)C(=O)C4C3)C(NC(=O)C(C(N)[NH3+])C3CC45CCCCC4(CC(F)C[NH2+]3)C5)C[NH2+]2)C1
+Nirmatrelvir,OEChem,16,155276168,EP-2970283-B1,Peptidase Inhibitor,1,0,1,0.44,1,1,CC1C2CC(C(C(=O)NC(C#N)Cc3ccc(-c4ccc5c(c4)CC(=O)N5)cc3F)[NH2+]2)C1C
+Nirmatrelvir,OEChem,17,70239211,WO-2010021680-A2,Aspartyl Protease Inhibitor,1,0,1,0.36,1,1,CCCOCC1(C)CC2([NH+]=C(N)N(C)C2=O)c2cc(-c3cc(F)cc(C#N)c3)ccc2O1
+Nirmatrelvir,OEChem,18,88630878,US-4889857-A,Antibiotic,1,0,0,0.37,0,0,O=CNCC1CN(C2(N3CCOC(C[NH+]4CCOCC4)C3)C(F)(F)CC3C(=O)C(C(=O)[O-])=CN(C4CC4)C3C2(F)F)CCO1
+Nirmatrelvir,OEChem,19,91802477,WO-2010043893-A1,DNA Gyrase Inhibitor,1,0,0,0.38,0,0,CC1C[N+]23CC2(C(C)O1)C1(Cc2cc4c(-c5ccco5)noc4c(F)c23)C(=O)NC(=O)NC1=O
+Nirmatrelvir,OEChem,20,49966021,n/a,n/a,0,0,0,0.35,0,0,C[NH+]1CCC2(CC1)C1(C#N)CN(c3ccccc3)CC2(C#N)C2=[NH+]CN(c3ccccc3)CN2C1=S
+Zidovudine,RDKit Atom 0,1,44326539,10.1021/jm00113a016,HSV Inhibitor,1,0,1,0.54,1,0,Cc1cn(C2CC(N=[N+]=[N-])C(CO)S2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,2,57303117,US-5064946-A,HIV Antiviral,1,0,1,0.77,0,0,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=S)[nH]c1=O
+Zidovudine,RDKit Atom 0,3,157607985,US-2013072458-A1,HIV Antiviral,1,0,1,0.89,0,0,Cc1cn(C2CC(N=[N+]=[N-])C(CC=O)O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,4,71335580,n/a,n/a,0,0,0,0.73,0,0,COc1cn(C2CC(O)(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,5,21145774,10.1016/S0960-894X(01)80809-X,n/a,0,0,0,0.37,0,0,Cc1cn(N2CC(CO)C(N=[N+]=[N-])C2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,6,9816797,n/a,n/a,0,0,0,0.72,0,0,Cc1cn(C2CC(O)(CN=[N+]=[N-])CO2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,7,53721880,US-6040297-A,HIV Antiviral,1,0,1,0.86,0,0,Cc1cn(C2(O)CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,8,464363,n/a,n/a,0,0,0,0.74,0,0,CONc1ccn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)n1
+Zidovudine,RDKit Atom 0,9,57085874,US-4681933-A,Antiviral,1,0,1,0.88,0,0,CCc1cn(C2CC(N=[N+]=[N-])C(C[NH3+])O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,10,91933148,n/a,n/a,0,0,0,0.76,0,0,Cc1cn(C2CC(CN[N+]#N)C(CO)O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,11,44286560,10.1021/jm9600095,HIV Antiviral,1,0,1,0.88,0,0,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)n(CC[NH3+])c1=O
+Zidovudine,RDKit Atom 0,12,101438451,n/a,n/a,0,0,0,0.53,0,0,Cc1cn(CC2CC(N=[N+]=[N-])C(CO)[Se]2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,13,13989283,US-2005026902-A1,HIV Antiviral,1,0,1,0.77,0,0,N#CSc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,14,129675745,10.1007/978-1-4615-2824-1\_5,HIV Antiviral,1,0,1,0.69,0,0,Cc1cn(C2CC(F)C(CO)(N=[N+]=[N-])O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,15,10469965,n/a,n/a,0,0,0,0.44,0,0,CONc1ccn(C2CC(N=[N+]=[N-])C(CO)S2)c(=O)n1
+Zidovudine,RDKit Atom 0,16,451826,US-4681933-A,HIV Antiviral,1,0,1,0.79,0,0,CCc1cn(C2CC(O)C(CN=[N+]=[N-])O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,17,12922948,n/a,n/a,0,0,0,0.49,0,0,Cc1cn(C2SC(CO)CC2N=[N+]=[N-])c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,18,20158804,US-2020399304-A1,HIV Antiviral,1,0,1,0.91,0,0,Cc1cn(C2CC(N=[N+]=[N-])C(CN=[N+]=[N-])O2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,19,49769999,10.1021/jm070824s,HIV Antiviral,1,0,1,0.5,1,0,Cc1cn(C2CC(O)C(CO)(N=[N+]=[N-])S2)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom 0,20,10332953,n/a,n/a,0,0,0,0.57,0,0,Cc1cn(C2CCC3(N=[N+]=[N-])COC23)c(=O)[nH]c1=O
+Zidovudine,RDKit Atom n,1,10494229,n/a,n/a,0,0,0,0.73,0,0,CSc1nc(=O)c(C)cn1C1CC(N=[N+]=[N-])C(CO)O1
+Zidovudine,RDKit Atom n,2,476466,10.1016/0968-0896(95)00030-k,HIV Antiviral,1,0,1,0.56,1,0,N#Cc1nc(N)nc2c1ncn2C1CC(N=[N+]=[N-])C(CO)O1
+Zidovudine,RDKit Atom n,3,102306428,n/a,n/a,0,0,0,0.29,0,0,COC(=O)C(C)N1C(=O)C(N=[N+]=[N-])C1C(O)CO
+Zidovudine,RDKit Atom n,4,89763182,EP-2631239-A1,HIV/HCV Antiviral,1,0,1,0.55,1,0,CCC1C(n2ccc(N)nc2=O)OC(CO)(N=[N+]=[N-])C1O
+Zidovudine,RDKit Atom n,5,10501259,n/a,n/a,0,0,0,0.53,0,0,O=c1nc(N[O-])c(Br)cn1C1CC(O)C(COP(=O)([O-])[O-])O1
+Zidovudine,RDKit Atom n,6,89763189,EP-2631239-A1,HIV/HCV Antiviral,1,0,1,0.55,1,0,N#CC1C(n2ccc(N)nc2=O)OC(CO)(N=[N+]=[N-])C1O
+Zidovudine,RDKit Atom n,7,162488274,US20210371447,n/a,0,0,0,0.6,0,0,COC1C(n2ccc(=O)[nH]c2=O)OC(CO)(CCN=[N+]=[N-])C1O
+Zidovudine,RDKit Atom n,8,90085164,US-2014088117-A1,Kinase Inhibitor,1,0,0,0.36,0,0,Cn1ncc([N+](=O)[O-])c1C1CC(=O)C(C)(N=[N+]=[N-])CO1
+Zidovudine,RDKit Atom n,9,89670654,US-2013172402-A1,DNA-Binding Oligo,1,0,0,0.7,0,0,CCC1(CO)OC(n2cc(C)c(=O)[nH]c2=O)C(N=[N+]=[N-])C1C
+Zidovudine,RDKit Atom n,10,25185465,US-2012070415-A1,Antiviral,1,0,1,0.54,1,0,CC1(O)C(n2ccc(N)nc2=O)OC(CO)(N=[N+]=[N-])C1O
+Zidovudine,RDKit Atom n,11,10618341,n/a,n/a,0,0,0,0.54,0,0,O=c1nc(N[O-])c(Cl)cn1C1CC(O)C(COP(=O)([O-])[O-])O1
+Zidovudine,RDKit Atom n,12,89433120,US-2013064794-A1,HCV Antiviral,1,0,1,0.37,1,0,C=C1C=C([NH3+])C=CN1C1OC(CO)(N=[N+]=[N-])C(O)C1O
+Zidovudine,RDKit Atom n,13,135016033,10.1055/s-0029-1217566,n/a,0,0,0,0.35,0,0,CC(=O)OC1C(CF)OC(Br)C(N=[N+]=[N-])C1OC(C)=O
+Zidovudine,RDKit Atom n,14,124122254,AU-2015220560-B2,Kinase Inhibitor,1,0,0,0.31,0,0,CC(=O)OC(C(=O)OC1CN(C(=O)[O-])CCC1CN=[N+]=[N-])c1ccccc1
+Zidovudine,RDKit Atom n,15,71834937,n/a,n/a,0,0,0,0.78,0,0,CCNc1nc(=O)n(C2CC(N=[N+]=[N-])C(CO)O2)cc1C
+Zidovudine,RDKit Atom n,16,23384164,US-2002028933-A1,Inflammation Treatment,1,0,0,0.25,0,0,COC(=O)C(Cc1ccc(C)cc1)NC(=O)C1(CCN=[N+]=[N-])CCCC1
+Zidovudine,RDKit Atom n,17,122418602,WO-2016113335-A1,Galectin Binding Inhibitor,1,0,0,0.32,0,0,CC(=O)OCC1OC(C)C(O)C(N=[N+]=[N-])C1OC(C)=O
+Zidovudine,RDKit Atom n,18,57155433,WO-9961583-A2,n/a,0,0,0,0.39,0,0,COC1OC(CF)C(O)C(C(=O)c2ccccc2)C1(O)N=[N+]=[N-]
+Zidovudine,RDKit Atom n,19,117680541,US-2012070415-A1,Antiviral,1,0,1,0.38,1,0,CC1C(N2C=CC(=O)CC2=O)OC(CO)(N=[N+]=[N-])C1O
+Zidovudine,RDKit Atom n,20,71477389,n/a,n/a,0,0,0,0.37,0,0,COC1OC(CSC(C)=O)C(OC(=O)c2ccccc2)C(N=[N+]=[N-])C1O
+Zidovudine,OEChem,1,101424608,n/a,n/a,0,0,0,0.69,0,0,Cc1cn(C2OC3(CO)CC3C2N=[N+]=[N-])c(=O)[nH]c1=O
+Zidovudine,OEChem,2,76847725,n/a,n/a,0,0,0,0.3,0,0,NC1=[NH+]C2C(N=CN2C2C=CC(CO)C2)C(=O)N1
+Zidovudine,OEChem,3,56679233,ES-2458358-T3,HCV Antiviral,1,0,1,0.33,1,0,NC1=[NH+]C2C(N=CN2C2OC(CO)CC2O)C(=O)N1
+Zidovudine,OEChem,4,89479439,EP-2760857-A1,PIM Kinase Inhibitor,1,0,0,0.35,0,0,CCC1(N2CCC(O)CC2)N(C)N=CC1(CN=[N+]=[N-])[N+](=O)[O-]
+Zidovudine,OEChem,5,90445142,US-2014271547-A1,HCV Antiviral,1,0,1,0.68,0,0,Cc1cn(C2OC(CO)C(O)C2(C)N=[N+]=[N-])c(=O)[nH]c1=O
+Zidovudine,OEChem,6,130375412,US-10449144-B2,n/a*,1,0,0,0.33,0,0,NC1=[NH+]C2C(N=CN2C2CCC(COP(=O)([O-])[O-])O2)C(=O)N1
+Zidovudine,OEChem,7,57284777,US-5585373-A,Anticancer Agent,1,0,0,0.36,0,0,CC(=O)OC(C1CN2C(=O)CC2O1)C(N=[N+]=[N-])C(=O)[O-]
+Zidovudine,OEChem,8,57155433,WO1999061583A2,Carbohydrate Scaffold,0,0,0,0.39,0,0,COC1OC(CF)C(O)C(C(=O)c2ccccc2)C1(O)N=[N+]=[N-]
+Zidovudine,OEChem,9,10594262,n/a,n/a,0,0,0,0.34,0,0,CS(=O)(=O)OC1CN(c2ccccc2C(=O)CO)C(=O)C1N=[N+]=[N-]
+Zidovudine,OEChem,10,136288884,n/a,n/a,0,0,0,0.36,0,0,NC1=[NH+]C(=O)C2N=CC(C3OC(CO)C(O)C3O)=C2N1
+Zidovudine,OEChem,11,102576629,n/a,n/a,0,0,0,0.29,0,0,COC(=O)C1C2C=CC(O2)C1C(=O)N=[N+]=[N-]
+Zidovudine,OEChem,12,88490101,EP-0236074-A1,Beta-Lactam Inhibitor,1,0,0,0.35,0,0,CC1(CSC2(CCO)N=NN=N2)SC2CC(=O)N2C1C(=O)[O-]
+Zidovudine,OEChem,13,57103302,EP-0351021-A2,Herbicide,1,0,0,0.25,0,0,NC1(C(Oc2ccc(Cl)cc2Cl)C(=O)[O-])N=NC=[NH+]1
+Zidovudine,OEChem,14,68220216,US-8034812-B2,Kinase Inhibitor,1,0,0,0.25,0,0,CC(C)(C)OC(=O)NC1CN2N=C(I)C=CC2=[NH+]1
+Zidovudine,OEChem,15,19967798,EP-0729070-A3,Industrial,0,1,0,0.24,0,0,[N-]=[N+]=NC1=CC(=O)C=CC1(O)N=[N+]=[N-]
+Zidovudine,OEChem,16,68220235,US-8034812-B2,Kinase Inhibitor,1,0,0,0.24,0,0,C[NH+](C)CC(=O)NC1CN2N=C(I)C=CC2=[NH+]1
+Zidovudine,OEChem,17,117680541,US-2012070415-A1,RSV/Influenaza Antiviral,1,0,1,0.38,1,0,CC1C(N2C=CC(=O)CC2=O)OC(CO)(N=[N+]=[N-])C1O
+Zidovudine,OEChem,18,6333312,n/a,n/a,0,0,0,0.36,0,0,COC1OC2COc3ccccc3OC2C(N=C(N)N[N+](=O)O)C1OS
+Zidovudine,OEChem,19,130290413,US-2017216275-A1,Phosphodiesterase Inhibitor,1,0,0,0.38,0,0,NC1=[NH+]C2C(N=CN2C2OC3COP(=O)([O-])CC3C2O)C(=O)N1
+Zidovudine,OEChem,20,23519654,US-2003236216-A1,HCV Antiviral,1,0,1,0.57,1,0,COC1C(O)C(n2ccc(N)nc2=O)OC1(CO)N=[N+]=[N-]
+LSD,RDKit Atom 0,1,3938,WO-2020068832-A1,Dopaminergic Agonist,1,0,1,0.79,0,0,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,2,165200,US-2023026731-A1,LSD Derivative,1,0,1,0.92,0,0,CCN(CC)C(=O)C1C=C2c3cccc4c3c(cn4C)CC2[NH+](C)C1
+LSD,RDKit Atom 0,3,56988771,DE-2924102-A1,Dopaminergic Agonist,1,0,1,0.79,0,0,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](CC)C1
+LSD,RDKit Atom 0,4,9884289,n/a,n/a,0,0,0,0.6,0,0,CCN(CC)C(=O)NC1=CC2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,5,134553,US20220096504,LSD Derivative,1,0,1,0.97,0,0,CC(O)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,6,24837792,US-3944582-A,LSD Derivative,1,0,0,0.59,0,0,CCN(CC)C(=O)CC1CC2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,7,10427207,10.1021/jm00006a015,LSD Derivative,1,0,1,0.97,0,0,CCCC(C)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,8,13059865,US-4853390-A,Antidopaminergic,1,0,1,0.8,0,0,COC(=O)C1C=C2c3cccc4[nH]c(Br)c(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,9,76683560,US-2017174684-A1,Dopaminergic Agonist,1,0,1,0.89,0,0,CCC(CO)NC(=O)C1C=C2c3cccc4[nH]c(C)c(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,10,130318308,US9777016B2,5HT / Dopaminergic,1,0,1,0.77,0,0,CC(CO)C(=O)NC1C=C2c3cccc4c3c(cn4C)CC2[NH+](C)C1
+LSD,RDKit Atom 0,11,13770164,US-4826852-A,Dopaminergic,1,0,1,0.73,0,0,CCN(CC)C(=S)NC1C=C2c3cccc4[nH]c(Br)c(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,12,45357584,n/a,n/a,0,0,0,0.59,0,0,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)N(C)C2CC1
+LSD,RDKit Atom 0,13,3039342,Book,see PubChem,1,0,1,0.85,0,0,CCNC(=O)C1C=C2c3cccc4c3c(cn4C(C)=O)CC2[NH+](C)C1
+LSD,RDKit Atom 0,14,13823178,US-4863929-A,Antidopaminergic,1,0,1,0.57,1,0,CCN(CC)C(=O)NC1CC2c3cc(O)cc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,15,67937682,US-4863929-A,Antidopaminergic,1,0,1,0.57,1,0,CCN(CC)C(=O)NC1CC2c3cc(Cl)cc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,16,88985978,WO2011003988A1,Somatic cell self renewel,1,0,0,0.88,0,0,C=C([NH2+]CC)C1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,17,70430592,n/a,n/a,0,0,0,0.81,0,0,COCCCCOC(=O)C1C=C2c3cccc4c3c(cn4C)CC2[NH+](C)C1
+LSD,RDKit Atom 0,18,57175320,US4348392A,Dopaminergic,1,0,1,0.56,1,0,CNS(=O)(=O)N(C)C1CC2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,19,13192408,US-4826852-A,Dopaminergic,1,0,1,0.78,0,0,CCNC(=S)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom 0,20,13192405,US-4826852-A,Dopaminergic,1,0,1,0.78,0,0,CNC(=S)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,RDKit Atom n,1,44457782,US-2021346346-A1,Serotonergic Agonist,1,0,1,0.58,1,0,CCCC[NH+]1CC(C(=O)N(CC)CC)C=C2c3cccc4c3C(CN4)CC21
+LSD,RDKit Atom n,2,132584757,n/a,n/a,0,0,0,0.52,0,0,CCOC(=O)C1=CSC(=Nc2ccc(Cl)cc2)C12C(=O)N(CC)c1ccccc12
+LSD,RDKit Atom n,3,3058122,n/a,n/a,0,0,0,0.57,0,0,COC12CC(CC(C#N)C(N)=O)C[NH+](C)C1Cc1c[nH]c3cccc2c13
+LSD,RDKit Atom n,4,10640901,n/a,n/a,0,0,0,0.54,0,0,CC=C1C(=O)N(CC(OC)OC)C2CC1Cc1[nH]c3ccccc3c12
+LSD,RDKit Atom n,5,67938090,EP-0220129-B1,Dopaminergic Agonist,1,0,1,0.57,1,0,CCC[NH+]1CC(NC(=O)N(CC)CC)CC2c3cc(O)cc4[nH]cc(c34)CC21
+LSD,RDKit Atom n,6,14723139,US-5411966-A,Dopaminergic Agonist,1,0,1,0.57,1,0,CCC[NH+]1CC(NC(=O)N(CC)CC)CC2c3cccc4[nH]c(CC)c(c34)CC21
+LSD,RDKit Atom n,7,58459676,US-9730923-B2,Dopaminergic Agonist,1,0,1,0.3,1,1,CCC[NH+]1CC(CS(=O)(=O)N(CC)CC)CC2CC3C(O)=CC=CC3CC21
+LSD,RDKit Atom n,8,4371364,n/a,n/a,0,0,0,0.51,0,0,CC1(C)c2ccccc2N(CC(N)=O)C12C=Cc1c(ccc3ccccc13)O2
+LSD,RDKit Atom n,9,67821466,n/a,n/a,0,0,0,0.48,0,0,CC[N+]1(CC)CC2(NC(N)=O)CC3C(CCC[NH+]3C)c3cccc1c32
+LSD,RDKit Atom n,10,68168631,US20120202823A1,Prodrug Carrier Moiety,1,0,0,0.35,0,0,C=C(CC)CC[N+]1(C)CC2c3ccccc3Oc3ccc(Cl)cc3C2C1
+LSD,RDKit Atom n,11,56989523,n/a,Low-migration Coating,0,0,0,0.51,0,0,CCC1(CC)c2ccccc2N(C)C12C=Nc1c(ccc3cccnc13)O2
+LSD,RDKit Atom n,12,101648098,n/a,n/a,0,0,0,0.44,0,0,CCCN1CC(NC(=O)N(CC)CC)Cc2c1cc1c3c(cccc23)NC1=O
+LSD,RDKit Atom n,13,23621001,n/a,n/a,0,0,0,0.35,0,0,CC[NH+](CC)CCC1(C(N)=O)CC(NC(C)=O)=C2C=CC=CC=C21
+LSD,RDKit Atom n,14,88840811,US3966706A,Dye,0,1,0,0.38,0,0,CCN(Br)N(CC)N(CC)N(CC)C(=O)c1ccc2nc(N)sc2c1
+LSD,RDKit Atom n,15,8882005,n/a,n/a,0,0,0,0.52,0,0,CCc1oc2ccccc2c1C=C1C[NH+](CC)Cc2c1nc1ccccc1c2C(=O)[O-]
+LSD,RDKit Atom n,16,56843556,n/a,n/a,0,0,0,0.84,0,0,C[NH+]1CC(CC(C#N)C(N)=O)C=C2c3cccc4[nH]cc(c34)CC21
+LSD,RDKit Atom n,17,123178010,US20120177730A1,Chemosensory Receptor Ligand,1,0,0,0.54,0,0,COCC(=O)N1C2CCCCC2N=C2CNC(=O)C2C1c1cccc2cc[nH]c12
+LSD,RDKit Atom n,18,101872812,n/a,n/a,0,0,0,0.45,0,0,CC1=C(C(=O)N(C)C(C)c2ccccc2)C(C)N(C)c2ccccc21
+LSD,RDKit Atom n,19,126638676,WO-2017033019-A1,Kinase Inhibitor,1,0,0,0.5,0,0,C=CC=C1C(=CC)OC(C2CCCCC2)c2cc(C(N)=O)n(CC)c21
+LSD,RDKit Atom n,20,57240530,US-5037832-A,Dopaminergic Agonist,1,0,1,0.72,0,0,CCc1c2c3c(cccc3n1NC(=O)N(CC)CC)C1=CCCN(C#N)C1C2
+LSD,OEChem,1,89651741,EP-2794606-A1,Neurodegen,1,0,0,0.41,0,0,C[NH+]1C=CS2(C)C[NH+](CCc3ccc4cc5c(cc4n3)OCCO5)C=C2C1
+LSD,OEChem,2,89705589,WO-2013107856-A1,Neurodegen,1,0,0,0.43,0,0,C[NH+]1C=CS2(C)C[NH+](CC(F)c3cn4c([nH+]3)-c3ccccc3C4)C=C2C1
+LSD,OEChem,3,3938,WO-2020068832-A1,LSD Derivative,1,0,1,0.79,0,0,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,OEChem,4,135838366,US-4696928-A,Anti-cancer,1,0,0,0.42,0,0,C[NH+]1CCN(c2cn3c4c([n+]([O-])cc3n2)C(c2ccccc2)=CCN4)CC1
+LSD,OEChem,5,129198569,EP-2888252-B1,Anti-Amyloid,1,0,0,0.38,0,0,C#CC(C)(C)C1C[NH+](C2=CC(c3cccc(C)c3)=CC(=NC)C2=N)C1
+LSD,OEChem,6,88368790,JPH0920755A/en,Alpha-1 receptor agonist,1,0,0,0.28,0,0,O=C([O-])CCN1CC[NH+](C2=CC3=CC=CCC4=CC=CCC34C=C2)CC1
+LSD,OEChem,7,89651520,EP-2794606-A1,Neurodegen,1,0,0,0.38,0,0,C[NH+]1C=CS2(C)C[NH+](CCc3ccc4cc(F)cc(F)c4n3)C=C2C1
+LSD,OEChem,8,18634859,US-4866057-A,Dopaminergic Agonist,1,0,1,0.39,1,1,CN1CC[NH+](C2=C3C[NH+](C)CC34CC(=CC#N)CC=C4N(C)C=C2)CC1
+LSD,OEChem,9,9884289,n/a,LSD Derivative,0,0,0,0.6,0,0,CCN(CC)C(=O)NC1=CC2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,OEChem,10,19850770,US-4866057-A,Dopaminergic Agonist,1,0,1,0.39,1,1,CCN1CC[NH+](C2=C3C[NH+](C)CC34CC(=CC#N)C=CC4=NC=C2)CC1
+LSD,OEChem,11,129029504,WO-2017061957-A1,Methyltransferase Inhibitor,1,0,0,0.38,0,0,C=C(C)N1CC[NH+](C(=C)c2ccc3c(Cl)cc(C4(C)CC4)nc3c2)CC1
+LSD,OEChem,12,69959271,US5126448A,Psychotropic,1,0,0,0.43,0,0,C[NH+]1CCN(C(=O)C2=C3C=CN=C4C=CC=CC43SC2)CC1
+LSD,OEChem,13,23815464,n/a,n/a,0,0,0,0.44,0,0,COc1cccc(C=CC2=[NH+]C3C(C(=O)C(C)C(=O)N3C)N2C)c1OC
+LSD,OEChem,14,10621020,10.1021/jm9805687,5-HT1 Receptor Agonist,1,0,1,0.45,1,1,C[NH+](Cc1ccccc1)C1CCN(CCc2c[nH]c3ccc(-n4cnnc4)cc23)C1
+LSD,OEChem,15,56988771,DE-2924102-A1,LSD Derivative,1,0,1,0.79,0,0,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)CC2[NH+](CC)C1
+LSD,OEChem,16,42609829,10.1038/nchembio.188,LSD Derivative,1,0,1,0.97,0,0,CC1C(C)N1C(=O)C1C=C2c3cccc4[nH]cc(c34)CC2[NH+](C)C1
+LSD,OEChem,17,123495938,WO-2013068470-A1\,Neurological Treatment,1,0,0,0.46,0,0,OC1CCN(c2cccc3c2C[NH+](C2CC2c2ccc4ccccc4n2)C=C3)C1
+LSD,OEChem,18,45124493,n/a,n/a,0,0,0,0.26,0,0,CCOC(=O)C[N+](C)(C)CCN1C(=O)C2C3C=CC(C3)C2C1=O
+LSD,OEChem,19,13770164,US-4826852-A,LSD Derivative,1,0,1,0.73,0,0,CCN(CC)C(=S)NC1C=C2c3cccc4[nH]c(Br)c(c34)CC2[NH+](C)C1
+LSD,OEChem,20,67563282,US-2010004226-A1\,Anxiolytic,1,0,0,0.43,0,0,CN1CC[NH+](C=C2[NH+]=C3CN=C(c4ccccc4)c4ccccc4N3C2=O)CC1
+Fentanyl,RDKit Atom 0,1,210867,US-RE29828-E,Analgesic,1,0,1,0.74,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](CCc2ccccc2)C1
+Fentanyl,RDKit Atom 0,2,101682792,n/a,n/a,0,0,0,0.51,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](CCc2ccccc2)CO1
+Fentanyl,RDKit Atom 0,3,61996,WO-2021216450-A1,Mefentanyl,1,0,1,0.87,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](CCc2ccccc2)CC1C
+Fentanyl,RDKit Atom 0,4,619324,n/a,n/a,0,0,0,0.79,0,0,CC(=O)N(c1ccccc1F)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,5,21496449,US-3993762-A,Analgesic,1,0,1,0.63,0,0,CCCC(=O)N(c1ccccn1)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,6,7365707,n/a,n/a,0,0,0,0.81,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](Cc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,7,12666095,10.1021/jm00182a016,Analgesic,1,0,1,0.75,0,0,CCC(=O)N(c1ccccc1)C1CCC[NH+](Cc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,8,451052,n/a,n/a,0,0,0,0.93,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](CCc2ccc(F)cc2)CC1
+Fentanyl,RDKit Atom 0,9,85863080,n/a,n/a,0,0,0,0.55,0,0,CNC(=O)N(c1cccnc1)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,10,129522083,n/a,n/a,0,0,0,0.86,0,0,CCCC(=O)N(c1cccc(F)c1)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,11,21951518,US-2014336214-A1,Analgesic,1,0,1,0.93,0,0,CCC(=O)N(c1ccc(O)cc1)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,12,20068771,US-5100903-A,Analgesic,1,0,1,0.58,1,0,CCC(=O)N(c1ccccc1)C1CC[NH+](Cc2ccccc2)CC1OC
+Fentanyl,RDKit Atom 0,13,10499027,n/a,n/a,0,0,0,0.82,0,0,CCC(=O)N(c1ccccc1)C1CC[NH+](CCc2ccccc2)CC1(C)C
+Fentanyl,RDKit Atom 0,14,12741855,10.1021/jm00139a003,Analgesic,1,0,1,0.71,0,0,CCC(=O)N(c1ccc(OC)cc1OC)C1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,15,133809799,n/a,n/a,0,0,0,0.36,0,0,CCCC(C)C(=O)N1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,16,19902260,US-5100903-A,Analgesic,1,0,1,0.6,0,0,CCC(=O)N(c1ccccc1F)C1CC[NH+](CCc2ccccc2)CC1OC
+Fentanyl,RDKit Atom 0,17,55456487,n/a,n/a,0,0,0,0.31,0,0,O=C(CCSc1ccccc1)N1CC[NH+](CCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,18,113074725,n/a,n/a,0,0,0,0.26,0,0,O=C(CCc1ccccc1)N1CC[NH+](CCCc2ccccc2)CC1
+Fentanyl,RDKit Atom 0,19,101682787,n/a,n/a,0,0,0,0.43,0,0,CCC(=O)N(c1ccccc1)C1SC[NH+](CCc2ccccc2)CS1
+Fentanyl,RDKit Atom 0,20,46048033,n/a,n/a,0,0,0,0.64,0,0,COCC(=O)N(c1ccc(F)cc1)C1CC[NH+](Cc2ccccc2)CC1
+Fentanyl,RDKit Atom n,1,46044596,n/a,n/a,0,0,0,0.22,0,0,CCc1ccc(-c2cncc(C[NH+]3CCN(CC)CC3)c2)cc1
+Fentanyl,RDKit Atom n,2,22503272,US-2004204421-A1,Serotonergic Agonist,1,0,0,0.25,0,0,CC[NH+]1CCN(c2nc(CC(O)c3ccccc3)cc3ccccc23)CC1
+Fentanyl,RDKit Atom n,3,12298017,US-4179569-A,Analgesic,1,0,1,0.51,1,0,CCC[NH+]1CCC(C(=O)OC)(N(C(=O)CC)c2ccccc2)CC1
+Fentanyl,RDKit Atom n,4,15075634,n/a,n/a,0,0,0,0.81,0,0,C=CC[NH+]1CCC(N(C(=O)CC)c2ccccc2)CC1
+Fentanyl,RDKit Atom n,5,71258753,WO2013024291A2,Various Diseases,1,0,0,0.27,0,0,C1=C([NH+]2CCN(CCc3ccccc3)CC2)CCS1
+Fentanyl,RDKit Atom n,6,57919355,US-2003236259-A1,Histamine H3 Agonist,1,0,0,0.28,0,0,CCC(CC)[NH+]1CCN(c2ccc(C(=O)c3ccccc3)cn2)CC1
+Fentanyl,RDKit Atom n,7,91753695,n/a,n/a,0,0,0,0.81,0,0,C#CC[NH+]1CCC(N(C(=O)CC)c2ccccc2)CC1
+Fentanyl,RDKit Atom n,8,110408477,n/a,n/a,0,0,0,0.23,0,0,CC[NH+]1CCN(C(=O)c2cc(-c3ccccc3)ccc2OC)CC1
+Fentanyl,RDKit Atom n,9,57919390,US-2003236259-A1,Histamine H3 Agonist,1,0,0,0.27,0,0,CCC(CC)[NH+]1CCN(c2cc(C(=O)c3ccccc3)ccn2)CC1
+Fentanyl,RDKit Atom n,10,120540,10.1016/j.bmcl.2012.04.098,5-HTR1A Agonist,1,0,0,0.31,0,0,C1=C([NH+]2CCN(CCc3ccccc3)CC2)CCCC1
+Fentanyl,RDKit Atom n,11,46044468,n/a,n/a,0,0,0,0.19,0,0,CCOc1ccc(-c2cncc(C[NH+]3CCN(CC)CC3)c2)cc1
+Fentanyl,RDKit Atom n,12,133342710,n/a,n/a,0,0,0,0.23,0,0,CCC[NH+]1CCCN(c2nc(-c3cccc(Cl)c3)no2)CC1
+Fentanyl,RDKit Atom n,13,133316530,n/a,n/a,0,0,0,0.24,0,0,CCC[NH+]1CCN(c2nc(-c3cccnc3)nc(C)c2C)CC1
+Fentanyl,RDKit Atom n,14,133282119,n/a,n/a,0,0,0,0.19,0,0,CC[NH+]1CCN(c2nc(-c3cccc(Cl)c3)no2)CC1
+Fentanyl,RDKit Atom n,15,68820800,US-2006122187-A1,Histamine H3 Agonist,1,0,0,0.22,0,0,CC[NH+]1CCN(c2cccc(-c3ccc(OC)c(OC)c3)n2)CC1
+Fentanyl,RDKit Atom n,16,60716433,US-8420657-B2,Kinase Inhibitor,1,0,0,0.3,0,0,C[NH+]1CCN(C(=O)C2(c3ccc(Br)cc3)CC2)CC1
+Fentanyl,RDKit Atom n,17,90268870,WO-2014102590-A1,Analgesic,1,0,1,0.74,0,0,CCCC1CCCC([NH+]2CCC(N(C(=O)CC)c3ccccc3)CC2)C1
+Fentanyl,RDKit Atom n,18,46208762,WO-2010057833-A1,Muscular Dystrophy Treatment,1,0,0,0.23,0,0,C[NH+]1CCN(c2ccc(-c3cccc(C=O)c3)cn2)CC1
+Fentanyl,RDKit Atom n,19,23961496,n/a,n/a,0,0,0,0.24,0,0,CC[NH+]1CCN(c2nc(-c3cccc(C)c3)nc3ccccc23)CC1
+Fentanyl,RDKit Atom n,20,46213640,KR-100990872-B1,Muscarinic Receptor Agonist,1,0,1,0.2,1,1,C[NH+]1CCC(OC(=O)C2(c3ccc(F)cc3)CCCCC2)C1
+Fentanyl,OEChem,1,123511870,WO-2012113860-A2,Photosensitiziing Antibiotic,1,1,0,0.21,0,0,CS1=C(C[N+]2(C)CCCC2)CC2=C3C(=CCC=C2)CCC=CC=C3C1
+Fentanyl,OEChem,2,87843970,US-7074779-B2,Estrogen Receptor Modulator,1,0,0,0.16,0,0,CC1C2=C(CC1O)C1=C3CCCC3=C3C=CNC=C3C1CC2
+Fentanyl,OEChem,3,57150779,WO-9740051-A1,Antihyperlipidemic Agent,1,0,0,0.24,0,0,O=C(NCCCN1CC[NH2+]CC1)C1=CC2=CNC3=CC=CC(=C1)N23
+Fentanyl,OEChem,4,57343443,n/a,n/a,0,0,0,0.26,0,0,COC(=O)C(C)=CCC[NH+]1CCc2c3n(c4ccccc24)C=C(C)C=CC31
+Fentanyl,OEChem,5,19769681,US-5202333-A,5-HT3 Agonist,1,0,0,0.25,0,0,O=c1c2c3c(cn1C1CC4CCC[NH+](C4)C1)CCCC=3CC=CC=2
+Fentanyl,OEChem,6,53890204,US4616023A,Calcium Channel Inhibitor,1,0,0,0.21,0,0,CN1CC[NH+](C2C=CC3=C(C=C4C=CC=CC42)C(Cl)CC=C3)CC1
+Fentanyl,OEChem,7,130393870,EP-2797921-B1,PARP Inhibitor,1,0,0,0.25,0,0,C=C1NN=C2CC(C)(C)Cc3c2c2c(n3CC[NH+]3CCCCC3)=CCCC=21
+Fentanyl,OEChem,8,123921833,WO2013127266A1,NAMPT Inhibitor,1,0,0,0.22,0,0,C=[N+](CC1CC=C(SO)CCC1)C(O)c1cc2c(o1)=CN=CCC=2
+Fentanyl,OEChem,9,88122657,US4885278A/en,Psychoactive (nonspecific),1,0,0,0.21,0,0,C=S1=CC2=C([NH+]3CCN(C)CC3)C=CN=C3C=CC=CC32C=1
+Fentanyl,OEChem,10,70137168,WO-9965910-A1,Kinase Inhibitor,1,0,0,0.24,0,0,COc1ccc2[nH]c3c(c2c1)CC(=O)C1=C3N=CC=CC1
+Fentanyl,OEChem,11,70633255,US4054569A,CNS Depressant,1,0,0,0.2,0,0,CCCCC1(O)CC2=C3C(=C4C=CCCC41)C[NH+]1CC=CC=C1C3CCC2
+Fentanyl,OEChem,12,123142262,WO2012006321A2,Antibacterial,1,0,0,0.18,0,0,O=C([O-])C1=CC2C(C=C1)CCC1CC3C=c4ccccc4=CC3=CC12
+Fentanyl,OEChem,13,74349214,n/a,n/a,0,0,0,0.32,0,0,C=C1C2CC3[NH+](C=C2C(C)=O)CCC32c3ccccc3N(C)C12
+Fentanyl,OEChem,14,88208824,WO2000042045A2,Chemokine Receptor Mod.,1,0,0,0.24,0,0,NC(=O)C1=c2c(ccc3c2=CC2=CC=CN4C=CC=CC24O3)N=C1
+Fentanyl,OEChem,15,100937756,n/a,n/a,0,0,0,0.19,0,0,C[N+](C)(Cc1ccc(C[N+](C)(C)CC2C=CC=C2)cc1)CC1C=CC=C1
+Fentanyl,OEChem,16,70204314,EP0820450B1,C-Fiber Analgesic,1,0,0,0.21,0,0,O=C([O-])OC1CCC[NH+](CCCC2CC=CC3=C2OC2C=CC=CC2=CN=C3)C1
+Fentanyl,OEChem,17,68869271,US-2009143392-A1,PDE10a Inhibitor,1,0,0,0.24,0,0,CCC[NH+]1CC(C)=C([NH+]2CCCCC2)C2=C1N1CN(OC)C=C1C=N2
+Fentanyl,OEChem,18,18597963,US-4515949-A,Hypertension,1,0,0,0.25,0,0,CCN1CC[NH+](C(C)C)C2C1C(C)=CN1C3=C(CCC=C3)CC21
+Fentanyl,OEChem,19,163122578,n/a,n/a,0,0,0,0.26,0,0,C=CCC1C2CC3CN1C1CCC(=CNC(C)=O)C2[NH+]1C3CC=C
+Fentanyl,OEChem,20,88209026,WO2000042045A2,Chemokine Receptor Mod.,1,0,0,0.24,0,0,O=CC1=c2c(ccc3c2=CC2=CC=CN4C=CC=CC24O3)N=C1
+Acid Blue 25 FA,RDKit Atom 0,1,53758252,US-3963763-A,Dye,0,1,1,0.69,0,0,Nc1c(S(=O)(=O)[O-])cc(Sc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,2,20658940,US-6241789-B1,Dye,0,1,1,0.78,0,0,Nc1c(S(=O)(=O)[O-])cc(NCc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,3,20314677,US-RE29724-E,Dye,0,1,1,0.62,0,0,Nc1c(C(=O)Cl)cc(Nc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,4,28468134,US3211755A,Dye,0,1,1,0.52,1,0,Nc1c(C(=O)c2ccccc2)cc([O-])c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,5,123191991,WO-2012035122-A1,Dye,0,1,1,0.81,0,0,Nc1c(S(=O)(=O)N=O)cc(Nc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,6,88847454,US-3763159-A,Dye,0,1,1,0.89,0,0,Nc1c(S(=O)(=O)[O-])cc(N(N)c2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,7,80836,US5385842A,Bacterial Sulfide Inhibitor,1,0,0,0.76,0,0,CNc1ccc(Nc2ccc(C)cc2S(=O)(=O)[O-])c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,8,23316284,US-4596666-A,Dye,0,1,1,0.51,1,0,Nc1c(C(=O)Oc2ccccc2)cc([N+](=O)[O-])c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,9,117662018,US-9228063-B2,Dye,0,1,1,0.51,1,0,CS(=O)(=O)Nc1cc(C(=O)c2ccccc2)c(N)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,10,118582126,US-2021060995-A1,Dye,0,1,1,0.5,1,0,Nc1c(Oc2ccc3ccccc3c2)cc([O-])c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,11,3100898,US-4191566-A,Dye,0,1,1,0.64,0,0,Nc1ccc(Nc2ccc([N+](=O)[O-])cc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,12,23454406,US-4276213-A,Dye,0,1,1,0.51,1,0,Nc1c(Br)cc(NC(=O)c2ccc(Cl)cc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,13,20136182,US-4749521-A,Dye,0,1,1,0.77,0,0,Nc1c(O)c(S(=O)(=O)[O-])c(N)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,14,12260350,CN-103965648-A,Dye,0,1,1,0.73,0,0,Nc1c(S(=O)(=O)[O-])cc(Cl)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,15,57573599,US-2009166583-A1,Dye,0,1,1,0.77,0,0,Nc1c(S(=O)(=O)[O-])cc(NCC(O)CO)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,16,19083394,US-5759211-A,Dye,0,1,1,0.79,0,0,NN(c1ccccc1)c1c(S(=O)(=O)[O-])ccc2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,17,154153477,US-3324150-A,Dye,0,1,1,0.76,0,0,CS(=O)(=O)Nc1cc(S(=O)(=O)[O-])c(N)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,18,21195065,US-5973038-A,Dye,0,1,1,0.6,0,0,Nc1c(Br)cc(Nc2ccc(Oc3ccccc3)cc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,19,5027999,n/a,n/a,0,0,0,0.6,0,0,CC(=O)N(C)c1ccc(Nc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom 0,20,129772523,10.1134/S0026261713040140,Dye,0,1,1,0.51,1,0,Nc1c(N)c2c(c3c1OS(=O)(=O)O3)C(=O)c1ccccc1C2=O
+Acid Blue 25 FA,RDKit Atom n,1,16205090,DE-1644589-B2,Dye,0,1,1,0.61,0,0,O=C1c2ccccc2C(=O)c2c(Nc3ccccc3)c(O)cc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,2,59123478,US-2003231237-A1,Dye,0,1,1,0.65,0,0,O=C1c2ccccc2C(=O)c2c([O-])c(S(=O)(=O)[O-])cc(NC3CCCCC3)c21
+Acid Blue 25 FA,RDKit Atom n,3,66487,US-6140517-A,Dye,0,1,1,0.59,1,0,O=C1c2ccccc2C(=O)c2c([O-])c(Nc3ccccc3)cc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,4,22975881,US-2003110581-A1,Dye,0,1,1,0.62,0,0,O=C1c2ccccc2C(=O)c2c(Nc3ccc(OCCCOCCOCCOCCOCCO)cc3)ccc(Nc3ccc(OCCCOCCOCCOCCOCCO)cc3)c21
+Acid Blue 25 FA,RDKit Atom n,5,71451728,n/a,n/a,0,0,0,0.64,0,0,O=C1c2ccccc2C(=O)c2c([O-])c(O)cc(Nc3ccc(S(=O)(=O)[O-])cc3)c21
+Acid Blue 25 FA,RDKit Atom n,6,70619779,US-4128396-A,Dye,0,1,1,0.59,1,0,O=C1c2ccccc2C(=O)c2c(N(Nc3ccccc3)c3ccccc3)ccc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,7,89357654,WO2007053227A1,Dye,0,1,1,0.71,0,0,C=C1c2ccccc2C(=O)c2c(Nc3c(C)cc(C)cc3C)cc(S(=O)(=O)[O-])c(C)c21
+Acid Blue 25 FA,RDKit Atom n,8,101530693,n/a,n/a,0,0,0,0.57,0,0,O=C1c2cc(O)cc([N+](=O)[O-])c2C(=O)c2cc(O)cc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,9,91433520,10.1016/j.jphotobiol.2010.08.010,Fluorescence Probe,0,1,1,0.37,1,1,[NH3+]CCCCC([NH3+])C(=O)OS(=O)(=O)c1cccc2cccc(Nc3ccccc3)c12
+Acid Blue 25 FA,RDKit Atom n,10,22918414,US-5663336-A,Kinase Inhibitor,1,0,0,0.33,0,0,O=C1NC(=O)c2cc(Nc3cc(O)c(O)c(O)c3)c(Nc3ccccc3)cc21
+Acid Blue 25 FA,RDKit Atom n,11,134848698,n/a,n/a,0,0,0,0.4,0,0,COc1ccccc1C(=O)C(=O)c1cccc2c(-c3ccccc3)c(N(C)S(C)(=O)=O)[nH]c12
+Acid Blue 25 FA,RDKit Atom n,12,5483103,US-2015225584-A1,Dye,0,1,1,0.57,1,0,O=C1c2c([O-])ccc([N+](=O)[O-])c2C(=O)c2c([O-])ccc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,13,86048149,n/a,n/a,0,0,0,0.62,0,0,O=C1c2cc(O)c(O)cc2C(=O)c2c(Nc3ccccc3)ccc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,14,137212270,n/a,n/a,0,0,0,0.45,0,0,O=C1C(Br)=CC(=Nc2ccccc2)c2c(O)c(Br)cc(Nc3ccccc3)c21
+Acid Blue 25 FA,RDKit Atom n,15,1727626,n/a,n/a,0,0,0,0.47,0,0,O=C1c2ccccc2-c2onc3c(N4CCCCC4)cc(Nc4ccc(Cl)cc4)c1c23
+Acid Blue 25 FA,RDKit Atom n,16,101530913,n/a,n/a,0,0,0,0.47,0,0,O=C1c2ccc([N+](=O)[O-])cc2C(=O)c2c1cc(Nc1ccccc1)c(O)c2[O-]
+Acid Blue 25 FA,RDKit Atom n,17,105919,n/a,n/a,0,0,0,0.39,0,0,O=S(=O)([O-])c1cccc2c(N=Nc3cccc(Cl)c3)ccc(Nc3ccccc3)c12
+Acid Blue 25 FA,RDKit Atom n,18,1992311,n/a,n/a,0,0,0,0.46,0,0,O=C1c2ccccc2-c2onc3c(NCCc4ccccc4)cc(Nc4ccccc4)c1c23
+Acid Blue 25 FA,RDKit Atom n,19,1914542,n/a,n/a,0,0,0,0.46,0,0,O=C1c2ccccc2-c2onc3c(NCc4ccccc4)cc(Nc4ccccc4)c1c23
+Acid Blue 25 FA,RDKit Atom n,20,117567,JP-2009072919-A,Dye,0,1,1,0.6,0,0,O=C1c2c([O-])ccc(Nc3ccccc3)c2C(=O)c2c([O-])ccc(Nc3ccccc3)c21
+Acid Blue 25 FA,OEChem,1,102017117,n/a,n/a,0,0,0,0.39,0,0,CN1C2=CC(=CC=C3C=C4C(=Nc5ccccc5N4C)C(C)(C)C3=O)C(=O)C(C)(C)C2=Nc2ccccc21
+Acid Blue 25 FA,OEChem,2,10895852,CN-108715591-A,Dye,0,1,1,0.36,1,1,C1=CC2=NC1=CC1=NC(=C(c3ccccc3)C3=CCC(=CC4=NC(=C2c2ccccc2)C=C4)N3)C=C1
+Acid Blue 25 FA,OEChem,3,10178481,US6919448B2,Dye,0,1,1,0.32,1,1,C1=CC2=NC1=CC1=NC(=CN3C=CN(C=c4ccc([nH]4)=CC4=NC(=C2)C=C4)C3)C=C1
+Acid Blue 25 FA,OEChem,4,136132324,US-2005020559-A1,Photosensitizing Agent,1,1,1,0.44,1,1,CCC1=C(C)C2=NC1=CC1=C(C)C3=C(O)C(C)(C(=O)OC)C(=C4NC(=CC5=NC(=C2)C(C[P+](F)(F)F)=C5C)C(C)C4CCC(=O)OC)C3=N1
+Acid Blue 25 FA,OEChem,5,90309725,EP-2159227-B1,Dye,0,1,1,0.2,1,1,C1=CC2=NC1=CC1=NC(=NC3=NC(=CC4=NC(=N2)C=C4)C=C3)C=C1
+Acid Blue 25 FA,OEChem,6,4426440,US20100055044A1,Anticancer (ETC Inhibitor),1,0,0,0.41,0,0,C1=CCC2C(=C1)C1=[NH+]c3[nH]c(c4ccccc34)N=c3[nH]c(c4ccccc34)=Nc3[nH]c(c4ccccc34)NC2=[NH+]1
+Acid Blue 25 FA,OEChem,7,67741728,US-5382662-A,Catalyst,0,0,0,0.19,0,0,N#CC1=CC2=NC1=CC1=NC(=CC3=NC(=CC4=NC(=C2)C=C4)C=C3)C=C1
+Acid Blue 25 FA,OEChem,8,68519583,US20100009927A1,Anti-inflammatory,1,0,0,0.18,0,0,CCCC1=CC2=NC1=CC1=NC(=CC3=NC(=CC4=NC(=C2)C=C4)C=C3)C=C1
+Acid Blue 25 FA,OEChem,9,69299605,n/a,n/a,0,0,0,0.2,0,0,CCCCCCCCCCOCCC1=CC2=NC1=CC1=NC(=CC3=NC(=CC4=NC(=C2)C=C4)C=C3)C=C1
+Acid Blue 25 FA,OEChem,10,136003417,n/a,n/a,0,0,0,0.29,0,0,C1=CC2=NC1=CC1=[NH+]C(=C3NC=C(C=C4C=NC2=[NH+]4)N3)N=C1
+Acid Blue 25 FA,OEChem,11,101659428,n/a,n/a,0,0,0,0.39,0,0,O=C1C=CC=C2Cn3c(c4ccccc4c4n(c5ccccc53)CC3=CC=CC(=O)C3=N4)N=C12
+Acid Blue 25 FA,OEChem,12,136851558,n/a,n/a,0,0,0,0.44,0,0,C=CC1=C(C)C2=NC1=CC1=C(C)C3=C(O)C(C(=O)OC)C(=C4N=C(C=c5[nH]c(c(C=C)c5C)=C2)C(C)=C4C=CC(=O)OC)C3=N1
+Acid Blue 25 FA,OEChem,13,54159364,US-2015209428-A1,Photosensitizing Agent,1,1,1,0.33,1,1,C1=CC2C(=CC1)C1=NC2C=C2C=CC(=N2)C=c2ccc([nH]2)=CC2=NC(=C1)C=C2
+Acid Blue 25 FA,OEChem,14,91212111,WO2010011959A1,Antiviral,1,0,0,0.43,0,0,CCC(=O)C1=C(C)C2=NC=C(Cc3ccc(F)cc3)C3OC(CC)=C[N+](=C23)C1=O
+Acid Blue 25 FA,OEChem,15,66696851,WO-2009100800-A1,Fluroescent,0,1,1,0.26,1,1,C1=CC2=NC1=CC1=NC(=CC3=NC(=CC4=NC(=C2)C=C4)C=C3c2ccccc2)C=C1
+Acid Blue 25 FA,OEChem,16,136079295,WO-2009099673-A1,Electron Transfer,0,1,0,0.3,0,0,C1=CC2=NC1=CC1N=C(C=c3ccc([nH]3)=CC3=NC(=C2)C=C3)CO1
+Acid Blue 25 FA,OEChem,17,69636218,WO2006015714A1,Optical Data Carrier,0,1,1,0.25,1,1,NS(=O)(=O)C1=CC2=NC1=CC1=NC(=CC3=NC(=CC4=NC(=C2)C=C4)C=C3)C=C1
+Acid Blue 25 FA,OEChem,18,66835451,WO-2006007184-A1,Phosphorescent,0,1,1,0.29,1,1,Fc1ccccc1C1=CC2=CC3=NC(=CC4=NC(=CC5=NC(=CC1=N2)C=C5)C=C4)C=C3
+Acid Blue 25 FA,OEChem,19,69328133,US-6916799-B2,Ionophore,1,0,0,0.33,0,0,C[n+]1ccccc1C1=CC2=CC3=NC(=CC4=NC(=CC5=NC(=CC1=N2)C=C5)C=C4)C=C3
+Acid Blue 25 FA,OEChem,20,91003879,US-6423469-B1,Dye,0,1,1,0.4,1,1,[C-]#[N+]C(C#N)=C1C(=CC=C2C=C(C=CC3C(=O)c4ccccc4C3=C(C#N)[N+]#[C-])CC(C)(C)C2)C(=O)c2ccccc21
+Avobenzone,RDKit Atom 0,1,69397178,EP-1181000-B1,Sunscreen,0,1,1,0.74,0,0,COc1ccc(C(=O)CC(=O)c2cccc(C(C)C)c2)cc1
+Avobenzone,RDKit Atom 0,2,39444601,n/a,n/a,0,0,0,0.52,0,0,CCOc1ccc(C=CC(=O)c2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,3,56836196,EP2600854B1/de,Sunscreen,0,1,1,0.93,0,0,COc1ccc(CCC(=O)c2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,4,n/a,n/a,n/a,0,0,0,0.41,0,0,COc1ccc(OCCCS(=O)CC(=O)c2ccc(C(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,5,131632684,n/a,n/a,0,0,0,0.54,0,0,CCOc1ccc(C(=O)C=Cc2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,6,n/a,n/a,n/a,0,0,0,0.35,0,0,Cc1ccc(C=CC(=O)c2ccc(C)c(C(C)(C)C)c2)cc1
+Avobenzone,RDKit Atom 0,7,81633789,n/a,n/a,0,0,0,0.29,0,0,COc1ccc(C(=O)c2ccc(C(C)(C)C)s2)cc1
+Avobenzone,RDKit Atom 0,8,102107511,n/a,n/a,0,0,0,0.43,0,0,COC(=O)c1ccc(CCC(=O)Cc2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,9,8862174,n/a,n/a,0,0,0,0.45,0,0,COc1cc(C=CC(=O)c2ccc(C(C)(C)C)cc2)ccc1O
+Avobenzone,RDKit Atom 0,10,67831086,WO-9116034-A1,Sunscreen,0,1,1,0.9,0,0,COc1ccc(C(=O)C(C)C(=O)c2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,11,43337768,n/a,n/a,0,0,0,0.49,0,0,COc1cccc(CC(=O)c2ccc(C(C)(C)C)cc2)c1
+Avobenzone,RDKit Atom 0,12,18428769,US-6448304-B1,UV Absorbtion,0,1,1,0.81,0,0,CCCCOc1ccc(C(=O)CC(=O)c2ccc(C)cc2)cc1
+Avobenzone,RDKit Atom 0,13,n/a,n/a,n/a,0,0,0,0.45,0,0,Cc1ccc(OCCCS(=O)CC(=O)c2ccc(C(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,14,43321130,n/a,n/a,0,0,0,0.55,0,0,CSc1ccc(C(=O)CC(=O)c2ccc(C)cc2)cc1
+Avobenzone,RDKit Atom 0,15,72034670,n/a,n/a,0,0,0,0.44,0,0,COc1ccc(C=CC(=O)c2ccc(C(C)C)cc2)cc1O
+Avobenzone,RDKit Atom 0,16,105089397,n/a,n/a,0,0,0,0.3,0,0,Cc1ccc(C(=O)Cc2ccc(C(C)(C)C)cc2)cn1
+Avobenzone,RDKit Atom 0,17,56836133,WO-2012016619-A1,Sunscreen,0,1,1,0.73,0,0,CC(C)c1ccc(C(=O)CCc2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,18,63411706,n/a,n/a,0,0,0,0.38,0,0,Cc1ccc(C(=O)Cc2ccc(C(C)C)cc2)cc1
+Avobenzone,RDKit Atom 0,19,115781741,n/a,n/a,0,0,0,0.38,0,0,COc1cc(C(=O)c2ccc(C(C)(C)C)cc2)ccc1Cl
+Avobenzone,RDKit Atom 0,20,43625029,US-2018085348-A1,RORI Inhibitor Anticancer,1,0,0,0.55,0,0,COc1ccc(CC(=O)c2ccc(C(C)C)cc2)cc1
+Avobenzone,RDKit Atom n,1,102420223,US20230113128,Skin Protectant,0,1,1,0.75,0,0,CCCC(C(=O)c1ccc(OC)cc1)C(=O)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,2,123816547,US-2018155288-A1,UV Absorbing,0,1,1,0.73,0,0,CCCCCC(C(=O)c1ccc(OC)cc1)C(=O)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,3,89752401,n/a,n/a,0,0,0,0.41,0,0,CBOC(=CC(=O)c1ccc(OC)cc1)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,4,69262951,WO-9423693-A1,UV Absorbing,0,1,1,0.67,0,0,CC(C(=O)c1ccccc1)C(=O)c1ccc(C(C)C)cc1
+Avobenzone,RDKit Atom n,5,89601532,US20140323376A1,Microcapsules,0,1,0,0.37,0,0,CC(COC(=O)C(=O)c1ccccc1)Cc1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,6,10592228,n/a,n/a,0,0,0,0.65,0,0,CCCC(C(=O)c1ccc(OC)cc1)C(=O)c1ccc(OC)cc1
+Avobenzone,RDKit Atom n,7,102454724,n/a,n/a,0,0,0,0.37,0,0,CC(=O)CC(c1ccc(C)cc1)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,8,66756943,US-8119107-B2,UV Absorbing,0,1,1,0.61,0,0,CCC(CC)CCCC(C(=O)c1ccccc1)C(=O)c1ccc(OC)cc1
+Avobenzone,RDKit Atom n,9,15262337,n/a,n/a,0,0,0,0.52,0,0,C=CCC(C(=O)c1ccc(C)cc1)C(=O)c1ccc(C)cc1
+Avobenzone,RDKit Atom n,10,121423935,US9452220B2,n/a,0,0,0,0.33,0,0,CC(C(=O)C(C)(C)C)c1ccc(C(=O)c2ccccc2)cc1
+Avobenzone,RDKit Atom n,11,9857795,n/a,n/a,0,0,0,0.58,0,0,Cc1cccc(C)c1C(=O)CC(=O)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,12,134950302,n/a,n/a,0,0,0,0.25,0,0,COC(=O)C(=CC=Cc1ccccc1)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,13,89393392,US-8362177-B1,Refractive Copolymer,0,1,1,0.27,1,1,C=C(C)C(=O)OC(c1ccccc1)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,14,18370144,US-6348617-B1,Pyruvate Purification,0,0,0,0.35,0,0,CC(C)OC(=O)C(=O)Cc1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,15,237566,n/a,n/a,0,0,0,0.28,0,0,CCOC(=O)C(C(=O)Cc1ccc(C)cc1)c1ccc(C)cc1
+Avobenzone,RDKit Atom n,16,62393856,n/a,n/a,0,0,0,0.32,0,0,COC(=O)C(C(C)C)C(O)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,17,117535120,n/a,n/a,0,0,0,0.36,0,0,CC(C)(C)C(=O)C(=O)Cc1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,18,69247116,n/a,Synthesis-Like Patents,0,0,0,0.41,0,0,CC(=O)C(CCC(=O)c1ccc(C)cc1)c1ccc(C)cc1
+Avobenzone,RDKit Atom n,19,62745021,n/a,n/a,0,0,0,0.51,0,0,COC(OC)C(=O)CC(=O)c1ccc(C(C)(C)C)cc1
+Avobenzone,RDKit Atom n,20,67376073,WO-2004105712-A1,Sunscreen,0,1,1,0.84,0,0,COc1ccc(C(=O)C(C)(C)C(=O)c2ccc(C(C)(C)C)cc2)cc1
+Avobenzone,OEChem,1,90148382,US-9059408-B2,Semiconductor,0,1,0,0.12,0,0,CC(C)=C(C)C1C2=C(CC3C=c4ccccc4=CC31)C(=O)C=CC2=O
+Avobenzone,OEChem,2,89110687,WO-2010003533-A2,Tubercular Antibacterial,1,0,0,0.13,0,0,CC1C=CC=C(OCCNC(=O)C2=CC(C)C=CC(C)C=C2)C=C1
+Avobenzone,OEChem,3,88264669,EP-2388002-A2,Antidepressant,1,0,0,0.14,0,0,CCCC=C1C=CC=CN1C1(C=O)CC2=C(CC(C(F)(F)F)C=C2)C1
+Avobenzone,OEChem,4,123262979,WO-2012084941-A1,Photovoltaic,0,1,1,0.08,1,1,CC1(C)C=CC=C(C(=O)C2=CC=CC(C)(C)C=C2)C=C1
+Avobenzone,OEChem,5,102300581,n/a,n/a,0,0,0,0.12,0,0,CN1C2=C(C(=O)CC(C)(C)C2)C(OCCOCCOCCOCCOCCO)C2=C1CC(C)(C)CC2=O
+Avobenzone,OEChem,6,101259804,n/a,n/a,0,0,0,0.14,0,0,COCCOCOC1=C(CC=C(C)C)C(=O)C2=C(OC(C)(C)C=C2)C1=O
+Avobenzone,OEChem,7,88267104,n/a,n/a,0,0,0,0.14,0,0,CCCC=C1C=CC=CN1C1(C=O)CC2=C(CCC=C2)C1
+Avobenzone,OEChem,8,91595142,WO-2010050781-A1,Electroluminescent,0,1,1,0.12,1,1,C=CC=CC1=C(C)C(C=CC)C(C)CC2=CC(C)CC=CC2=N1
+Avobenzone,OEChem,9,10266401,n/a,n/a,0,0,0,0.13,0,0,COC(=O)C(C#N)=C1C=CC2C=CC1C1C=CC=C1C2(C)C
+Avobenzone,OEChem,10,58802136,US7176237B2,Many drug-like,1,0,0,0.1,0,0,CC12C=C(C#N)C(=O)C=C1C1(C)C=CC(=O)C(C)(C)C1CC2
+Avobenzone,OEChem,11,89652998,EP-1775335-B9,Electroluminescent,0,1,1,0.24,1,1,C=C(C)C1C=CC2=C(C1)C(=O)c1ccc(C3CCCCC3)cc1C2=O
+Avobenzone,OEChem,12,101683095,n/a,n/a,0,0,0,0.12,0,0,CC1=CC2=C(C(=O)OC2)C2=C(C)C=CC(C(C)C)=CC2=C1
+Avobenzone,OEChem,13,10945525,n/a,n/a,0,0,0,0.09,0,0,CC1=C(C=CC2(C)C=CCC=C2)C(C)(C)C(C=O)CC1
+Avobenzone,OEChem,14,57236739,US-4193931-A,Anti-Tumor,1,0,0,0.11,0,0,CCOC(=O)C=C(C)C=CC=C(C)C1CC(=O)C2=C(C1)C(C)(C)CC2
+Avobenzone,OEChem,15,123440338,WO2014086032A1,Kinase Inhibitor,1,0,0,0.12,0,0,CC[NH+](C)CCCC1=CCC(C2CC3=CCC(C)C=CCCC(C)=C3C(C)=N2)C=C1
+Avobenzone,OEChem,16,122224185,n/a,n/a,0,0,0,0.21,0,0,COc1ccc2c(c1)CC1=C2C=C2C(=O)C(C)CC(=O)C2C=CC1(C)C
+Avobenzone,OEChem,17,23208426,EP0654488B1,Copolymer,0,0,0,0.11,0,0,O=C1C=CC2=C(C1)C(=O)C1=C(C(=O)CC=C1)C2=O
+Avobenzone,OEChem,18,87402810,US20130023518A1,AMP Kinase Activator,1,0,0,0.2,0,0,CCOC(=O)c1ccc2c(c1)CC(C)(C)C(C1=CC(=C=O)CC=C1)N2
+Avobenzone,OEChem,19,68630174,EP-1641792-B1,PDE10A Inhibitor,1,0,0,0.15,0,0,CCOC(=O)C1C(Cl)=C(C)N2C1=C1C=CC(OC)(OC)C=C1CC2CC
+Avobenzone,OEChem,20,88746062,US-4011140-A,Anti-Tumor,1,0,0,0.13,0,0,C=C(C(N)=O)C1=CC=C2C(C1)CN1C(=O)C(C)=CC1=CN2[O-]
+2-dPAC,RDKit Atom 0,1,118405815,US-2015280136-A1,Optoelectronic,0,1,1,0.28,1,0,c1ccc(N(c2cccc3ccccc23)c2cccc3c2sc2ccccc23)cc1
+2-dPAC,RDKit Atom 0,2,57120863,US-2021135127-A1,Electroluminescent,0,1,1,0.28,1,1,c1ccc(N(c2ccccc2)N(c2ccccc2)c2cccc3ccccc23)cc1
+2-dPAC,RDKit Atom 0,3,117633923,EP-1802706-B1,Electroluminescent,0,1,1,0.26,1,0,c1ccc(N(c2ccccc2)c2ccc(-n3nnc4ccccc43)cc2)cc1
+2-dPAC,RDKit Atom 0,4,57702177,US-2009131673-A1,Electroluminescent,0,1,1,0.18,1,0,c1ccc(-c2ccc(-c3ccccc3)c3c2oc2ccccc23)cc1
+2-dPAC,RDKit Atom 0,5,58401023,n/a,n/a,0,0,0,0.18,0,0,c1ccc(-c2nccn2-c2ccc3c(c2)sc2ccccc23)cc1
+2-dPAC,RDKit Atom 0,6,135173910,US11289654B2/en,Optoelectronic,0,1,1,0.28,1,0,c1ccc(N(c2ccccc2)c2cccc3c(-c4ccco4)cccc23)cc1
+2-dPAC,RDKit Atom 0,7,54511588,US-4931350-A,Electrophotographic,0,1,1,0.33,1,0,c1ccc(N(c2ccccc2)c2ccc(CCc3cccc4ccccc34)cc2)cc1
+2-dPAC,RDKit Atom 0,8,53473286,n/a,n/a,0,0,0,0.51,0,0,c1ccc(N(c2ccccc2)c2ccc(-c3ccc4[nH]ccc4c3)cc2)cc1
+2-dPAC,RDKit Atom 0,9,66650204,CN-114163447-A,Electroluminescent,0,1,1,0.43,1,0,c1ccc(N(c2ccccc2)c2ccccc2-n2c3ccccc3c3ccccc32)cc1
+2-dPAC,RDKit Atom 0,10,85666158,US-2018040829-A1,Electroluminescent,0,1,1,0.27,1,0,c1ccc(N(c2ccccc2)c2ccc(-c3nc4ccccc4o3)cc2)cc1
+2-dPAC,RDKit Atom 0,11,118134114,US-2015162542-A1,Optoelectronic,0,1,1,0.22,1,0,c1ccc(N(c2ccccc2)c2cccc3c2Sc2ccccc2O3)cc1
+2-dPAC,RDKit Atom 0,12,15641729,n/a,n/a,0,0,0,0.21,0,0,c1ccc(Cc2c(-c3ccccc3)n(-c3ccccc3)c3ccccc23)cc1
+2-dPAC,RDKit Atom 0,13,72736479,JP2014034654,Electrochromic,0,1,1,0.32,1,0,c1ccc(N(c2ccccc2)c2ccc(-c3nc4ccccc4[nH]3)cc2)cc1
+2-dPAC,RDKit Atom 0,14,131980099,US-2017288148-A1,Electroluminescent,0,1,1,0.29,1,0,Brc1ccc(N(c2ccccc2)c2ccc(-c3ccccc3)c3ccccc23)cc1
+2-dPAC,RDKit Atom 0,15,101115479,n/a,n/a,0,0,0,0.13,0,0,c1ccc([C+](c2ccccc2)C2c3ccccc3-c3ccccc32)cc1
+2-dPAC,RDKit Atom 0,16,102333726,n/a,n/a,0,0,0,0.16,0,0,c1ccc(P(c2ccccc2)N2C3CCC2c2ccccc23)cc1
+2-dPAC,RDKit Atom 0,17,59133370,US-2018090687-A1,Electroluminescent,0,1,1,0.29,1,0,c1ccc(N(c2ccccc2)c2ccc3c4c(cccc24)-c2ccccc2-3)cc1
+2-dPAC,RDKit Atom 0,18,132502906,n/a,n/a,0,0,0,0.26,0,0,c1ccc(N(c2ccccc2)c2ccc(-p3ccc4ccccc43)cc2)cc1
+2-dPAC,RDKit Atom 0,19,12505268,n/a,n/a,0,0,0,0.32,0,0,c1ccc(Nc2c(-c3ccccc3)c(-c3ccccc3)nc3ccccc23)cc1
+2-dPAC,RDKit Atom 0,20,88364885,US-2012126180-A1,Electroluminescent,0,1,1,0.39,1,0,c1ccc(N(c2ccccc2)c2cccc3cc4ccc5ccccc5c4cc23)cc1
+2-dPAC,RDKit Atom n,1,10892657,n/a,n/a,0,0,0,0.15,0,0,c1ccc(C2(c3ccc[nH]3)c3ccccc3Oc3ccccc32)cc1
+2-dPAC,RDKit Atom n,2,123135311,n/a,n/a,0,0,0,0.17,0,0,COc1cc[nH]c2ncc(-c3ccccc3)c1-2
+2-dPAC,RDKit Atom n,3,122210717,n/a,n/a,0,0,0,0.15,0,0,c1ccc([Se]c2c(-c3ccccc3)nc3sccn23)cc1
+2-dPAC,RDKit Atom n,4,11810541,n/a,n/a,0,0,0,0.19,0,0,c1ccc([Se]c2c(-c3ccccc3)ncc3ccncc23)cc1
+2-dPAC,RDKit Atom n,5,121228673,WO-2021012717-A1,Antitumor,1,0,0,0.16,0,0,Cc1cc[nH]c2ncc(-c3ccccc3)c1-2
+2-dPAC,RDKit Atom n,6,12065985,n/a,n/a,0,0,0,0.25,0,0,Fc1cccc(-c2c(-c3ccccc3)[nH]c3ccccc23)c1
+2-dPAC,RDKit Atom n,7,58966992,US-2007213327-A1,Kinase Inhibitor,1,0,0,0.15,0,0,Clc1[nH]ccc2ncc(-c3ccc(Oc4ccccc4)cc3)c1-2
+2-dPAC,RDKit Atom n,8,102163265,n/a,n/a,0,0,0,0.14,0,0,c1ccc([Se]Cc2cccc(-c3ccccc3)n2)cc1
+2-dPAC,RDKit Atom n,9,68969564,US-2009326006-A1,Beta-Secretase Inhibitor,1,0,0,0.21,0,0,c1ccc(-c2cnc(-c3ncc[nH]3)c3ccccc23)cc1
+2-dPAC,RDKit Atom n,10,71456541,n/a,n/a,0,0,0,0.14,0,0,Oc1ccc(-c2c(-c3ccccc3)nc3ccccn23)cc1
+2-dPAC,RDKit Atom n,11,101082530,n/a,n/a,0,0,0,0.2,0,0,Oc1ccc(-c2c(-c3ccccc3)ncc3ccccc23)cc1
+2-dPAC,RDKit Atom n,12,9836049,n/a,n/a,0,0,0,0.23,0,0,Oc1ccc(-c2c(-c3ccccc3)[nH]c3ccc(F)cc23)cc1
+2-dPAC,RDKit Atom n,13,10585958,n/a,n/a,0,0,0,0.23,0,0,COc1cccc2c(C)c(-c3ccccc3)[nH]c12
+2-dPAC,RDKit Atom n,14,134852402,n/a,n/a,0,0,0,0.16,0,0,COc1ccc([Se]c2c(-c3ccccc3)nc3ccccn23)cc1
+2-dPAC,RDKit Atom n,15,699711,n/a,n/a,0,0,0,0.17,0,0,COc1ccc(-c2nc(-c3ccccc3)c3ccccn23)cc1
+2-dPAC,RDKit Atom n,16,101767888,n/a,n/a,0,0,0,0.16,0,0,Cc1ccc(-c2oc(-c3cccs3)c3ccccc23)cc1
+2-dPAC,RDKit Atom n,17,59699922,WO-2007106236-A2,Kinase Modulator,1,0,0,0.17,0,0,COc1ccccc1-c1cnc2[nH]cc(-n3cccc3)cc1-2
+2-dPAC,RDKit Atom n,18,102515925,n/a,n/a,0,0,0,0.18,0,0,COc1ccc(-c2cc(-c3ccccc3)nc3ccsc23)cc1
+2-dPAC,RDKit Atom n,19,729459,n/a,n/a,0,0,0,0.18,0,0,Oc1cccc(-c2nc(-c3ccccc3)c3ccccn23)c1
+2-dPAC,RDKit Atom n,20,5378237,n/a,n/a,0,0,0,0.16,0,0,Cc1[nH]c(-c2ccccc2)nc2nc(-c3ccccc3)cc1-2
+2-dPAC,OEChem,1,101378249,n/a,n/a,0,0,0,0.09,0,0,C1=CC=C2CC(=C1)C=C1CC3=C4C(=C5C=CC=CC(=C3)C5)CC2=C14
+2-dPAC,OEChem,2,11374507,n/a,n/a,0,0,0,0.16,0,0,C1=Cc2ccc3c(c2)=Cc2cc(ccc2=3)=CC=C2C=CC3=C(C=C4CC1=CC=C43)C2
+2-dPAC,OEChem,3,134982929,n/a,n/a,0,0,0,0.06,0,0,C1#CC=CC2=CC=CC=C(C=CC#CC=CC3=CC=CC=C(C=C1)C=C3)C=C2
+2-dPAC,OEChem,4,121277727,n/a,n/a,0,0,0,0.21,0,0,C1=CC2=CC=C3C=CC(c4cccc(-c5ccc6ccc7cccnc7c6n5)n4)=C4C=CC(=C1)C2C34
+2-dPAC,OEChem,5,91515383,US-2004151944-A1,Electroluminescent,0,1,1,0.13,1,1,C1=CC=C2C(=CC=CC=C2N=C2C=CC=CC3=CC=CC=CC32)C=C1
+2-dPAC,OEChem,6,122204293,n/a,n/a,0,0,0,0.16,0,0,C1=CN2C=CCC3=C2C(=C1)C1=C(C=C2CC4=C5C(=C2O1)CC=CN5CC=C4)C3
+2-dPAC,OEChem,7,136880633,n/a,n/a,0,0,0,0.18,0,0,C1=CC=C2C=C(c3cccc(C4C=Cc5cccc6c5=C4[C+]=CC=6)c3)CC3=C2C=1CC=C3
+2-dPAC,OEChem,8,632403,n/a,n/a,0,0,0,0.07,0,0,C1=CC=C2CC(=C1)C1=CC=CC=C(C1)C1=CCCC=C(C1)C1=CC=CC=C2C1
+2-dPAC,OEChem,9,10178481,US6919448B2,Dye,0,1,1,0.16,1,1,C1=CC2=NC1=CC1=NC(=CN3C=CN(C=c4ccc([nH]4)=CC4=NC(=C2)C=C4)C3)C=C1
+2-dPAC,OEChem,10,102090697,n/a,n/a,0,0,0,0.09,0,0,CC12C3=CC=CC1=CC=C1C=C(C4=CC5=CC=CC6=CC=C7C=CC=C4C7(C)C65C)C=C(C=C3)C12C
+2-dPAC,OEChem,11,57599395,US-2006216621-A1,Electrophotographic,0,1,1,0.19,1,1,C1=CC2=CC(C=NN(c3ccccc3)c3ccccc3)=C3CC=CC4=C3C2C(=C1)C=C4
+2-dPAC,OEChem,12,54275018,US-5041366-A,Electrophotographic,0,1,1,0.18,1,1,C1=CCC2=CC34N=C(C=CCc5nc6ccccc6s5)SC3=CC=CC4=CC2=C1
+2-dPAC,OEChem,13,137052079,WO-2013105026-A1,Nanoparticle Carrier,0,0,0,0.08,0,0,C1=CC=CC2=C3C=C(C3)C3=CC(=C4C=CC(=C5C=C(CC5)C5=CC(=CC6=CC(=C(C=C1)CCCCCC2)C6)C5)CC4)C3
+2-dPAC,OEChem,14,89304021,EP-2535331-A1,Electroluminescent,0,1,1,0.18,1,1,C1=CC2=CC3=C4C(=CC=C5C=CC(c6cccc7c6oc6ccccc67)C(C=C3)C54)C2N=C1
+2-dPAC,OEChem,15,124008654,WO-2013178041-A1,Electroluminescent,0,1,1,0.17,1,1,C1=CC2C=CC=C(C3=CC=C(C=CC4=CC=C(C5=c6ccccc6=C(C6=c7cccc8c7=C(CC6)c6ccccc6-8)C6C=CC=CC56)CC4)CC3)C2C=C1
+2-dPAC,OEChem,16,118122961,EP-2878599-A1,Electroluminescent,0,1,1,0.17,1,0,C1=CC2=NC=CC(C3C=CC(C4C=Cc5[nH]c6c(c5C4)CCC=C6)=CC3)C2C=C1
+2-dPAC,OEChem,17,89296775,EP-2535331-A1,Electroluminescent,0,1,1,0.17,1,1,C1=CC2=CC3=C4C(=CC=C5C=CC(c6cc(-c7ccccc7)cc(-c7ccccc7)c6)=C(C=C3)C54)C2N=C1
+2-dPAC,OEChem,18,90180369,US-9899600-B2,Electroluminescent,0,1,1,0.19,1,1,C1=CC2=NC=C(C3=c4ccccc4=C4C3=c3ccccc3=C4c3cccc4ccccc34)C2C=C1
+2-dPAC,OEChem,19,136436068,n/a,n/a,0,0,0,0.19,0,0,C1=CC2=CC=C3C=CC=C4SC(=CC=Cc5nc6ccccc6s5)[NH2+]C34C2C=C1
+2-dPAC,OEChem,20,60136245,US-2010314615-A1,Electroluminescent,0,1,1,0.19,1,1,C1=CC2C=C(c3ccc(C4=c5ccccc5=C(c5ccc6ccccc6c5)C5C=CC=CC45)cc3)C3C=CC=CC3C2C=C1
