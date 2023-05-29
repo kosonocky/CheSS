@@ -15,7 +15,7 @@ Due to the constraints on GitHub filesize:
 If you wish to obtain copies of these files, please contact clayton.kosonocky@utexas.edu. We may host these files on a separate storage platform, in which case we will post a link here.
 
 
-## Citations <a name="citations"></a>
+## Citation <a name="citations"></a>
 ```bibtex
 @misc{kosonocky2023prompt,
       title={Prompt Engineering for Transformer-based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues}, 
