@@ -16,6 +16,7 @@ If you wish to obtain copies of these files, please contact clayton.kosonocky@ut
 
 
 # Citation
+```bibtex
 @misc{kosonocky2023prompt,
       title={Prompt Engineering for Transformer-based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues}, 
       author={Clayton W. Kosonocky and Aaron L. Feller and Claus O. Wilke and Andrew D. Ellington},
@@ -24,3 +25,4 @@ If you wish to obtain copies of these files, please contact clayton.kosonocky@ut
       archivePrefix={arXiv},
       primaryClass={physics.chem-ph}
 }
+```
