@@ -13,3 +13,14 @@ Due to the constraints on GitHub filesize:
 - The search results only include the top 1,000 results, rather than the entire database
 
 If you wish to obtain copies of these files, please contact clayton.kosonocky@utexas.edu. We may host these files on a separate storage platform, in which case we will post a link here.
+
+
+# Citation
+@misc{kosonocky2023prompt,
+      title={Prompt Engineering for Transformer-based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues}, 
+      author={Clayton W. Kosonocky and Aaron L. Feller and Claus O. Wilke and Andrew D. Ellington},
+      year={2023},
+      eprint={2305.16330},
+      archivePrefix={arXiv},
+      primaryClass={physics.chem-ph}
+}
