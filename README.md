@@ -4,7 +4,7 @@ From Publication: Prompt Engineering for Transformer-Based Chemical Similarity S
 
 Authors: Clayton W. Kosonocky, Aaron L. Feller, Claus O. Wilke, Andrew D. Ellington
 
-Link to Publication: [Coming Soon]
+Link to arXiv: https://arxiv.org/abs/2305.16330
 
 Contained herein are scripts for the described Chemical Semantic Search (CheSS), alternative canonicalization prompt engineering method, and various analyses of the search results.
 
