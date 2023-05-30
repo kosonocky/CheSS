@@ -1,6 +1,6 @@
 # Chemical Semantic Search (CheSS)
 
-From Publication: Prompt Engineering for Transformer-Based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues
+Prompt Engineering for Transformer-Based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues
 
 Authors: Clayton W. Kosonocky, Aaron L. Feller, Claus O. Wilke, Andrew D. Ellington
 
