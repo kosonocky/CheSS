@@ -14,6 +14,16 @@ Due to the constraints on GitHub filesize:
 
 If you wish to obtain copies of these files, please contact clayton.kosonocky@utexas.edu. We may host these files on a separate storage platform, in which case we will post a link here.
 
+## License Header
+License for CheSS repository, a chemical language model embedding-based chemical similarity search utilizing alternatively canonicalized queries.
+Copyright (c) 2023 Board of Regents, The University of Texas System
+Clayton W. Kosonocky, Aaron L. Feller, Andrew D. Ellington
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2. 
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ## Citation <a name="citations"></a>
 ```bibtex
