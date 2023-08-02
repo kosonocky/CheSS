@@ -4,9 +4,11 @@ import pandas as pd
 import torch
 import os
 import time
-from pandarallel import (
-    pandarallel,
-)  # see https://github.com/qilingframework/qiling/commit/902e01beb94e2e27e50d1456e51e0ef99937aff1 for fix, must go into install location and change import
+
+from pathlib import Path
+# from pandarallel import (
+#     pandarallel,
+# )  # see https://github.com/qilingframework/qiling/commit/902e01beb94e2e27e50d1456e51e0ef99937aff1 for fix, must go into install location and change import
 from torch import nn
 from torch.utils.data import TensorDataset, DataLoader
 from transformers import (
@@ -60,6 +62,7 @@ def load_model(
     else:
         print("No GPU available, using the CPU instead.")
         device = torch.device("cpu")
+
     model.to(device)
 
     return model, device, tokenizer
@@ -124,35 +127,31 @@ def eval_model(df: pd.DataFrame, model, device, tokenizer, model_name: str = "Ch
 
 def mp_sim(f, query_vec):
     if os.path.isfile(f):
-        print(f)
+        # print(f)
         df = pd.read_pickle(f)
         feature_arr = np.array(df["features"].tolist())
         df["similarity"] = np.dot(feature_arr, query_vec)
         return df[["SMILES", "similarity"]]
 
 def main(args):
-    t0 = time.time()
-    print(args.canon_input)
-    pandarallel.initialize(progress_bar=False, use_memory_fs=False)
+    print(f"Model Name: {(model_name := args.model_name)}")
+    print(f"Query SMILES: {(query_smiles := args.query_smiles)}")
+    print(f"Query Name: {(query_name := args.query_name)}")
+    print(f"Canonicalization: {(canonicalization := args.canonicalization)}")
 
-    model, device, tokenizer = load_model(args.model_name)
+
+    t_curr = time.time()
+
+    model, device, tokenizer = load_model(model_name)
 
     # Prepare query vector
-    query_df = pd.DataFrame([args.query_smiles], columns=["SMILES"],)
-    print("query input:")
-    print(args.query_smiles)
-    print("canonized input:")
-    print(canon_smiles(args.query_smiles))
-    if args.canon_input:
-        print("CANONICALIZING QUERY")
-        query_df["SMILES"] = query_df["SMILES"].apply(canon_smiles)
-    else:
-        print("**NOT** CANONICALIZING QUERY")
-    query_df = eval_model(df=query_df, model = model, device = device, tokenizer = tokenizer, model_name=args.model_name)  # generate feature vector
+    query_df = pd.DataFrame([query_smiles], columns=["SMILES"],)
+
+    query_df = eval_model(df=query_df, model = model, device = device, tokenizer = tokenizer, model_name=model_name)  # generate feature vector
     query_df["features"] = query_df["features"].apply(lambda x: x/np.linalg.norm(x))
     query_vec = np.array(query_df["features"].tolist())[0]
 
-    feat_data_dir = f"../data/featurized_canon_smiles/{args.model_name}"
+    feat_data_dir = f"ENTER_DIR_HERE"
 
     args1 = []
     args2 = []
@@ -163,24 +162,25 @@ def main(args):
             args2 += [query_vec]
 
 
-    tot_count = 0
-    for i in args1:
-        tot_count += len(pd.read_pickle(i))
-    print(f"Total molecules being searched: {tot_count}")
-
-    t1 = time.time()
-    with mp.Pool(processes= (mp.cpu_count() - 1)) as pool:
-        print(f"CPUs used: {mp.cpu_count() - 1}")
+    n_cpus = 20
+    with mp.Pool(processes= n_cpus) as pool:
+        print(f"CPUs used: {n_cpus}")
         data = pool.starmap(mp_sim, zip(args1, args2))
     sim_df = pd.concat(data, axis=0)
-    t2 = time.time()
+    print(f"Total molecules searched: {len(sim_df)}")
 
     sim_df = sim_df.sort_values(by="similarity", ascending=False)
-    sim_df.to_csv(f"similarity_{args.query_smiles}.csv", index=False)
-    t3 = time.time()
 
-    print(f"Total Time: {t3 - t0}")
-    print(f"Dot Product Time: {t2-t1}")
+    if query_name is None:
+        flag = query_smiles
+    else:
+        flag = query_name
+
+    output_dir = Path("results")
+    output_dir.mkdir(exist_ok=True)
+    sim_df.to_csv(f"{output_dir}/{flag}-{canonicalization}.csv", index=False)
+
+    print(f"Time elapsed: {round(abs((t_old:=t_curr) - (t_curr:=time.time())), 3)} seconds.")
 
 
 
@@ -202,11 +202,14 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "--canon_input",
-        type = bool,
-        default = False,
-    )
+        "--query_name",
+        type = str,
+    )   
+
+    parser.add_argument(
+        "--canonicalization",
+        type = str,
+    )   
 
     args = parser.parse_args()
-    print(args.canon_input)
     main(args)

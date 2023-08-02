@@ -30,7 +30,7 @@ def load_model(
     model_name: str = "ChemBERTa",
 ):
     """
-    Instantiates pre-trained model w/ regressor (depending on regressor type) and sets to correct device / parallel
+    Instantiates pre-trained model
 
     """
     assert isinstance(model_name, str)
@@ -46,6 +46,7 @@ def load_model(
         raise
 
     if torch.cuda.is_available():
+        print('here')
         device = torch.device("cuda:0")
         print("Using GPU.")
         if torch.cuda.device_count() > 1:
@@ -83,6 +84,7 @@ def eval_model(df: pd.DataFrame, model, device, tokenizer, model_name: str = "Ch
         encoded_corpus = tokenizer(
             text=df["SMILES"].to_list(),
             add_special_tokens=True,
+            # padding="longest",
             truncation=True,
             padding=True,
             return_attention_mask=True,
@@ -90,13 +92,11 @@ def eval_model(df: pd.DataFrame, model, device, tokenizer, model_name: str = "Ch
         print("Data tokenized")
         input_ids = np.array(encoded_corpus["input_ids"])
         attention_masks = np.array(encoded_corpus["attention_mask"])
-        print(f"len(input_ids): {len(input_ids)}")
-        print(f"len(attention_masks): {len(attention_masks)}")
 
         dataloader = create_dataloaders(input_ids, attention_masks, batch_size=16)
         model.eval()
         for count, batch in enumerate(dataloader):
-            if count % 10 == 0:
+            if count % 500 == 0:
                 print(f"Model eval batch {count}")
             batch_inputs, batch_masks = tuple(b.to(device) for b in batch)
             with torch.no_grad():
@@ -117,14 +117,14 @@ def eval_model(df: pd.DataFrame, model, device, tokenizer, model_name: str = "Ch
 
 def main(args):
     pandarallel.initialize(progress_bar=False, use_memory_fs=False)
-    data_path = "../data/pubchem-9999810-512-token-compatible.txt"
-    save_path = Path(f"../data/featurized_canon_smiles/{args.model_name}")
+    data_path = "ENTER_HERE"
+    save_path = Path(f"ENTER_DIR_HERE/{args.model_name}")
     save_path.mkdir(parents=True, exist_ok=True)
 
     # load model
     model, device, tokenizer = load_model(args.model_name)
 
-    # load data    
+    # load data
     with open(data_path, "r") as f:
         pubchem_strings = f.read().splitlines()
     df = pd.DataFrame(pubchem_strings, columns=["SMILES"])
@@ -138,11 +138,9 @@ def main(args):
         print(f"i: {i}, j: {j}")
 
         sub_df = df[i:j].reset_index(drop=True)
-        sub_df["SMILES"] = sub_df["SMILES"].parallel_apply(canon_smiles) # canonicalize smiles
-        sub_df = sub_df[sub_df["SMILES"] != "ERROR"] # remove ERROR SMILES
         sub_df = eval_model(df=sub_df, model= model, device = device, tokenizer=tokenizer, model_name = args.model_name)  # generate features
         sub_df["features"] = sub_df["features"].parallel_apply(lambda x: x/np.linalg.norm(x)) # normalize features
-        sub_df[["SMILES", "features"]].to_pickle(Path(save_path, f"pubchem10m_{str(i).zfill(9)}_{str(j).zfill(9)}.pkl"))
+        sub_df[["SMILES", "features"]].to_pickle(Path(save_path, f"surechembl_{str(i).zfill(9)}_{str(j).zfill(9)}.pkl"))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
